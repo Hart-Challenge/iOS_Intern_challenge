@@ -1,3600 +1,3600 @@
- [
-		
-  {
-		"mv": "101 Dalmatians",
-		"yr": "1996",
-		"rt": "G",
-		"len": 103
-		},
-		
-  {
-		"mv": "101 Dalmatians (Animated)",
-		"yr": "1961",
-		"rt": "G",
-		"len": 79
-		},
-		
-  {
-		"mv": "101 Dalmations II: Patch's London Adventure",
-		"yr": "2003",
-		"rt": "G",
-		"len": 70
-		},
-		
-  {
-		"mv": "102 Dalmatians",
-		"yr": "2000",
-		"rt": "G",
-		"len": 100
-		},
-		
-  {
-		"mv": "20,000 Leagues Under the Sea",
-		"yr": "1954",
-		"rt": "NR",
-		"len": 127
-		},
-		
-  {
-		"mv": "Absent-Minded Professor, The",
-		"yr": "1961",
-		"rt": "NR",
-		"len": 92
-		},
-		
-  {
-		"mv": "Adventures of Bullwhip Griffin, The",
-		"yr": "1967",
-		"rt": "NR",
-		"len": 108
-		},
-		
-  {
-		"mv": "Adventures of Huck Finn, The",
-		"yr": "1993",
-		"rt": "PG",
-		"len": 108
-		},
-		
-  {
-		"mv": "Adventures of Ichabod and Mr. Toad, The",
-		"yr": "1949",
-		"rt": "NR",
-		"len": 68
-		},
-		
-  {
-		"mv": "Air Bud",
-		"yr": "1997",
-		"rt": "PG",
-		"len": 98
-		},
-		
-  {
-		"mv": "Air Bud 3: World Pup",
-		"yr": "2000",
-		"rt": "G",
-		"len": 83
-		},
-		
-  {
-		"mv": "Air Bud Spikes Back",
-		"yr": "2003",
-		"rt": "G",
-		"len": 87
-		},
-		
-  {
-		"mv": "Air Bud: Golden Receiver",
-		"yr": "1998",
-		"rt": "G",
-		"len": 90
-		},
-		
-  {
-		"mv": "Air Bud: Seventh Inning Fetch",
-		"yr": "2002",
-		"rt": "G",
-		"len": 93
-		},
-		
-  {
-		"mv": "Air Buddies",
-		"yr": "2006",
-		"rt": "PG",
-		"len": 80
-		},
-		
-  {
-		"mv": "Aladdin",
-		"yr": "1992",
-		"rt": "G",
-		"len": 90
-		},
-		
-  {
-		"mv": "Alexander and the Terrible, Horrible, No Good, Very Bad Day",
-		"yr": "2014",
-		"rt": "",
-		"len": 0
-		},
-		
-  {
-		"mv": "Alice In Wonderland",
-		"yr": "2010",
-		"rt": "PG",
-		"len": 108
-		},
-		
-  {
-		"mv": "Alley Cats Strike",
-		"yr": "2000",
-		"rt": "G",
-		"len": 87
-		},
-		
-  {
-		"mv": "Almost Angels",
-		"yr": "1962",
-		"rt": "NR",
-		"len": 93
-		},
-		
-  {
-		"mv": "Amy",
-		"yr": "1981",
-		"rt": "G",
-		"len": 100
-		},
-		
-  {
-		"mv": "Angels in the Endzone",
-		"yr": "1997",
-		"rt": "",
-		"len": 88
-		},
-		
-  {
-		"mv": "Angels In The Infield",
-		"yr": "2000",
-		"rt": "PG",
-		"len": 87
-		},
-		
-  {
-		"mv": "Angels in the Outfield",
-		"yr": "1994",
-		"rt": "PG",
-		"len": 102
-		},
-		
-  {
-		"mv": "Apple Dumpling Gang Rides Again",
-		"yr": "1979",
-		"rt": "G",
-		"len": 88
-		},
-		
-  {
-		"mv": "Apple Dumpling Gang, The",
-		"yr": "1975",
-		"rt": "G",
-		"len": 100
-		},
-		
-  {
-		"mv": "AristoCats, The",
-		"yr": "1970",
-		"rt": "G",
-		"len": 78
-		},
-		
-  {
-		"mv": "Around the World in 80 Days",
-		"yr": "1957",
-		"rt": "PG",
-		"len": 120
-		},
-		
-  {
-		"mv": "Atlantis: Milo's Return",
-		"yr": "2003",
-		"rt": "G",
-		"len": 70
-		},
-		
-  {
-		"mv": "Atlantis: The Lost Empire",
-		"yr": "2001",
-		"rt": "PG",
-		"len": 95
-		},
-		
-  {
-		"mv": "Avalon High",
-		"yr": "2010",
-		"rt": "PG",
-		"len": 0
-		},
-		
-  {
-		"mv": "Babes in Toyland",
-		"yr": "1961",
-		"rt": "NR",
-		"len": 106
-		},
-		
-  {
-		"mv": "Bambi",
-		"yr": "1942",
-		"rt": "NR",
-		"len": 69
-		},
-		
-  {
-		"mv": "Bambi II",
-		"yr": "2006",
-		"rt": "G",
-		"len": 70
-		},
-		
-  {
-		"mv": "Barefoot Executive, The",
-		"yr": "1971",
-		"rt": "NR",
-		"len": 96
-		},
-		
-  {
-		"mv": "Basil - The Great Mouse Detective",
-		"yr": "1986",
-		"rt": "G",
-		"len": 74
-		},
-		
-  {
-		"mv": "Bears and I, The",
-		"yr": "1974",
-		"rt": "G",
-		"len": 89
-		},
-		
-  {
-		"mv": "Beauty and the Beast",
-		"yr": "1991",
-		"rt": "G",
-		"len": 84
-		},
-		
-  {
-		"mv": "Beauty and the Beast: The Enchanted Christmas",
-		"yr": "1997",
-		"rt": "G",
-		"len": 72
-		},
-		
-  {
-		"mv": "Bedknobs and Broomsticks",
-		"yr": "1971",
-		"rt": "G",
-		"len": 117
-		},
-		
-  {
-		"mv": "Bedtime Stories",
-		"yr": "2008",
-		"rt": "PG",
-		"len": 99
-		},
-		
-  {
-		"mv": "Benji the Hunted",
-		"yr": "1987",
-		"rt": "G",
-		"len": 88
-		},
-		
-  {
-		"mv": "Beverly Hills Chihuahua",
-		"yr": "2008",
-		"rt": "PG",
-		"len": 93
-		},
-		
-  {
-		"mv": "Beverly Hills Chihuahua 2",
-		"yr": "2011",
-		"rt": "G",
-		"len": 84
-		},
-		
-  {
-		"mv": "Beverly Hills Chihuahua 3: Viva La Fiesta!",
-		"yr": "2012",
-		"rt": "G",
-		"len": 90
-		},
-		
-  {
-		"mv": "Big Green, The",
-		"yr": "1995",
-		"rt": "PG",
-		"len": 100
-		},
-		
-  {
-		"mv": "Big Hero 6",
-		"yr": "2014",
-		"rt": "",
-		"len": 0
-		},
-		
-  {
-		"mv": "Big Red",
-		"yr": "1962",
-		"rt": "NR",
-		"len": 89
-		},
-		
-  {
-		"mv": "Biscuit Eater, The",
-		"yr": "1972",
-		"rt": "G",
-		"len": 90
-		},
-		
-  {
-		"mv": "Black Cauldron, The",
-		"yr": "1985",
-		"rt": "PG",
-		"len": 80
-		},
-		
-  {
-		"mv": "Black Hole, The",
-		"yr": "1979",
-		"rt": "PG",
-		"len": 98
-		},
-		
-  {
-		"mv": "Blackbeard's Ghost",
-		"yr": "1968",
-		"rt": "G",
-		"len": 106
-		},
-		
-  {
-		"mv": "Blank Check",
-		"yr": "1994",
-		"rt": "PG",
-		"len": 93
-		},
-		
-  {
-		"mv": "Boatniks, The",
-		"yr": "1970",
-		"rt": "G",
-		"len": 99
-		},
-		
-  {
-		"mv": "Bolt",
-		"yr": "2008",
-		"rt": "G",
-		"len": 96
-		},
-		
-  {
-		"mv": "Bon Voyage!",
-		"yr": "1962",
-		"rt": "NR",
-		"len": 130
-		},
-		
-  {
-		"mv": "Boy Who Talked to Badgers, The",
-		"yr": "1975",
-		"rt": "",
-		"len": 98
-		},
-		
-  {
-		"mv": "Brave",
-		"yr": "2012",
-		"rt": "PG",
-		"len": 100
-		},
-		
-  {
-		"mv": "Brave Little Toaster, The",
-		"yr": "1987",
-		"rt": "",
-		"len": 90
-		},
-		
-  {
-		"mv": "Bridge to Terabithia",
-		"yr": "2007",
-		"rt": "PG",
-		"len": 95
-		},
-		
-  {
-		"mv": "Brink!",
-		"yr": "1998",
-		"rt": "NR",
-		"len": 99
-		},
-		
-  {
-		"mv": "Brother Bear",
-		"yr": "2003",
-		"rt": "G",
-		"len": 82
-		},
-		
-  {
-		"mv": "Brother Bear 2",
-		"yr": "2006",
-		"rt": "G",
-		"len": 70
-		},
-		
-  {
-		"mv": "Buffalo Dreams",
-		"yr": "2005",
-		"rt": "NR",
-		"len": 90
-		},
-		
-  {
-		"mv": "Bugs Life, A",
-		"yr": "1998",
-		"rt": "G",
-		"len": 96
-		},
-		
-  {
-		"mv": "Cadet Kelly",
-		"yr": "2002",
-		"rt": "G",
-		"len": 101
-		},
-		
-  {
-		"mv": "Camp Rock",
-		"yr": "2008",
-		"rt": "G",
-		"len": 94
-		},
-		
-  {
-		"mv": "Camp Rock 2: The Final Jam",
-		"yr": "2010",
-		"rt": "G",
-		"len": 97
-		},
-		
-  {
-		"mv": "Can of Worms",
-		"yr": "1999",
-		"rt": "PG",
-		"len": 90
-		},
-		
-  {
-		"mv": "Candleshoe",
-		"yr": "1977",
-		"rt": "G",
-		"len": 101
-		},
-		
-  {
-		"mv": "Cars",
-		"yr": "2006",
-		"rt": "G",
-		"len": 116
-		},
-		
-  {
-		"mv": "Cars 2",
-		"yr": "2011",
-		"rt": "G",
-		"len": 113
-		},
-		
-  {
-		"mv": "Castaway Cowboy",
-		"yr": "1974",
-		"rt": "G",
-		"len": 91
-		},
-		
-  {
-		"mv": "Cat from Outer Space, The",
-		"yr": "1978",
-		"rt": "G",
-		"len": 104
-		},
-		
-  {
-		"mv": "Chandar, the Black Leopard of Ceylon",
-		"yr": "1972",
-		"rt": "NR",
-		"len": 90
-		},
-		
-  {
-		"mv": "Charley and the Angel",
-		"yr": "1973",
-		"rt": "G",
-		"len": 93
-		},
-		
-  {
-		"mv": "Charlie, the Lonesome Cougar",
-		"yr": "1967",
-		"rt": "NR",
-		"len": 75
-		},
-		
-  {
-		"mv": "Cheetah",
-		"yr": "1989",
-		"rt": "G",
-		"len": 83
-		},
-		
-  {
-		"mv": "Cheetah Girls 2, The",
-		"yr": "2006",
-		"rt": "G",
-		"len": 96
-		},
-		
-  {
-		"mv": "Cheetah Girls, The",
-		"yr": "2003",
-		"rt": "NR",
-		"len": 100
-		},
-		
-  {
-		"mv": "Cheetah Girls, The: One World",
-		"yr": "2008",
-		"rt": "G",
-		"len": 90
-		},
-		
-  {
-		"mv": "Chicken Little",
-		"yr": "2005",
-		"rt": "G",
-		"len": 81
-		},
-		
-  {
-		"mv": "Christmas Carol, A",
-		"yr": "2009",
-		"rt": "PG",
-		"len": 98
-		},
-		
-  {
-		"mv": "Chronicles of Narnia: Prince Caspian",
-		"yr": "2008",
-		"rt": "PG",
-		"len": 144
-		},
-		
-  {
-		"mv": "Chronicles of Narnia: The Lion, Witch and the Wardrobe",
-		"yr": "2005",
-		"rt": "PG",
-		"len": 143
-		},
-		
-  {
-		"mv": "Cinderella",
-		"yr": "2015",
-		"rt": "",
-		"len": 0
-		},
-		
-  {
-		"mv": "Cinderella II: Dreams Come True",
-		"yr": "2002",
-		"rt": "G",
-		"len": 73
-		},
-		
-  {
-		"mv": "Cinderella III: A Twist in Time",
-		"yr": "2007",
-		"rt": "G",
-		"len": 70
-		},
-		
-  {
-		"mv": "College Road Trip",
-		"yr": "2008",
-		"rt": "G",
-		"len": 83
-		},
-		
-  {
-		"mv": "Color of Friendship, The",
-		"yr": "2000",
-		"rt": "G",
-		"len": 87
-		},
-		
-  {
-		"mv": "Computer Wore Tennis Shoes, The",
-		"yr": "1969",
-		"rt": "G",
-		"len": 91
-		},
-		
-  {
-		"mv": "Condorman",
-		"yr": "1981",
-		"rt": "PG",
-		"len": 90
-		},
-		
-  {
-		"mv": "Confessions of a Teenage Drama Queen",
-		"yr": "2004",
-		"rt": "PG",
-		"len": 89
-		},
-		
-  {
-		"mv": "Cool Runnings",
-		"yr": "1993",
-		"rt": "PG",
-		"len": 98
-		},
-		
-  {
-		"mv": "Country Bears, The",
-		"yr": "2002",
-		"rt": "G",
-		"len": 88
-		},
-		
-  {
-		"mv": "Cow Belles",
-		"yr": "2006",
-		"rt": "G",
-		"len": 90
-		},
-		
-  {
-		"mv": "D2: The Mighty Ducks",
-		"yr": "1994",
-		"rt": "PG",
-		"len": 106
-		},
-		
-  {
-		"mv": "D3: The Mighty Ducks",
-		"yr": "1996",
-		"rt": "PG",
-		"len": 104
-		},
-		
-  {
-		"mv": "Dadnapped",
-		"yr": "2009",
-		"rt": "G",
-		"len": 90
-		},
-		
-  {
-		"mv": "Darby O'Gill and the Little People",
-		"yr": "1959",
-		"rt": "NR",
-		"len": 93
-		},
-		
-  {
-		"mv": "Darn Cat, That",
-		"yr": "1997",
-		"rt": "PG",
-		"len": 89
-		},
-		
-  {
-		"mv": "Davy Crockett and the River Pirates",
-		"yr": "1956",
-		"rt": "G",
-		"len": 81
-		},
-		
-  {
-		"mv": "Davy Crockett, King of the Wild Frontier",
-		"yr": "1955",
-		"rt": "G",
-		"len": 93
-		},
-		
-  {
-		"mv": "Den Brother",
-		"yr": "2010",
-		"rt": "G",
-		"len": 89
-		},
-		
-  {
-		"mv": "Devil and Max Devlin, The",
-		"yr": "1981",
-		"rt": "PG",
-		"len": 96
-		},
-		
-  {
-		"mv": "Dinosaur",
-		"yr": "2000",
-		"rt": "G",
-		"len": 82
-		},
-		
-  {
-		"mv": "Don't Look Under The Bed",
-		"yr": "1999",
-		"rt": "NR",
-		"len": 92
-		},
-		
-  {
-		"mv": "Double Teamed",
-		"yr": "2002",
-		"rt": "G",
-		"len": 120
-		},
-		
-  {
-		"mv": "Doug's 1st Movie",
-		"yr": "1999",
-		"rt": "G",
-		"len": 77
-		},
-		
-  {
-		"mv": "Dragonslayer",
-		"yr": "1981",
-		"rt": "PG",
-		"len": 108
-		},
-		
-  {
-		"mv": "DuckTales: The Movie - Treasure of the Lost Lamp",
-		"yr": "1990",
-		"rt": "G",
-		"len": 74
-		},
-		
-  {
-		"mv": "Dumbo",
-		"yr": "1941",
-		"rt": "G",
-		"len": 64
-		},
-		
-  {
-		"mv": "Eddie's Million Dollar Cook-Off",
-		"yr": "2003",
-		"rt": "NR",
-		"len": 85
-		},
-		
-  {
-		"mv": "Eight Below",
-		"yr": "2006",
-		"rt": "PG",
-		"len": 120
-		},
-		
-  {
-		"mv": "Emil and the Detectives",
-		"yr": "1964",
-		"rt": "NR",
-		"len": 92
-		},
-		
-  {
-		"mv": "Emperor's New Groove 2: Kronk's New Groove",
-		"yr": "2005",
-		"rt": "G",
-		"len": 72
-		},
-		
-  {
-		"mv": "Emperor's New Groove, The",
-		"yr": "2000",
-		"rt": "G",
-		"len": 78
-		},
-		
-  {
-		"mv": "Enchanted",
-		"yr": "2007",
-		"rt": "PG",
-		"len": 107
-		},
-		
-  {
-		"mv": "Endurance",
-		"yr": "1999",
-		"rt": "PG",
-		"len": 83
-		},
-		
-  {
-		"mv": "Escape From The Dark (The Littlest Horse Thieves)",
-		"yr": "1976",
-		"rt": "G",
-		"len": 104
-		},
-		
-  {
-		"mv": "Escape to Witch Mountain",
-		"yr": "1975",
-		"rt": "G",
-		"len": 97
-		},
-		
-  {
-		"mv": "Even Stevens Movie, The",
-		"yr": "2003",
-		"rt": "NR",
-		"len": 93
-		},
-		
-  {
-		"mv": "Extremely Goofy Movie, An",
-		"yr": "2000",
-		"rt": "G",
-		"len": 76
-		},
-		
-  {
-		"mv": "Fantasia",
-		"yr": "1940",
-		"rt": "G",
-		"len": 120
-		},
-		
-  {
-		"mv": "Fantasia 2000",
-		"yr": "1999",
-		"rt": "G",
-		"len": 75
-		},
-		
-  {
-		"mv": "Far Off Place, A",
-		"yr": "1993",
-		"rt": "PG",
-		"len": 100
-		},
-		
-  {
-		"mv": "Fighting Prince of Donegal, The",
-		"yr": "1966",
-		"rt": "NR",
-		"len": 110
-		},
-		
-  {
-		"mv": "Finding Dory",
-		"yr": "2015",
-		"rt": "",
-		"len": 0
-		},
-		
-  {
-		"mv": "Finding Nemo",
-		"yr": "2003",
-		"rt": "G",
-		"len": 100
-		},
-		
-  {
-		"mv": "First Kid",
-		"yr": "1996",
-		"rt": "PG",
-		"len": 101
-		},
-		
-  {
-		"mv": "Flight of the Navigator",
-		"yr": "1986",
-		"rt": "PG",
-		"len": 90
-		},
-		
-  {
-		"mv": "Flubber",
-		"yr": "1997",
-		"rt": "PG",
-		"len": 93
-		},
-		
-  {
-		"mv": "Follow Me, Boys!",
-		"yr": "1966",
-		"rt": "NR",
-		"len": 131
-		},
-		
-  {
-		"mv": "Fox and the Hound 2, The",
-		"yr": "2006",
-		"rt": "G",
-		"len": 69
-		},
-		
-  {
-		"mv": "Fox and the Hound, The",
-		"yr": "1981",
-		"rt": "G",
-		"len": 83
-		},
-		
-  {
-		"mv": "Frankenweenie",
-		"yr": "2012",
-		"rt": "PG",
-		"len": 87
-		},
-		
-  {
-		"mv": "Freaky Friday",
-		"yr": "2003",
-		"rt": "PG",
-		"len": 97
-		},
-		
-  {
-		"mv": "Frenemies",
-		"yr": "2012",
-		"rt": "NR",
-		"len": 0
-		},
-		
-  {
-		"mv": "Frozen",
-		"yr": "2013",
-		"rt": "PG",
-		"len": 102
-		},
-		
-  {
-		"mv": "Full-Cou"rt" Miracle",
-		"yr": "2003",
-		"rt": "NR",
-		"len": 90
-		},
-		
-  {
-		"mv": "Fun & Fancy Free",
-		"yr": "1947",
-		"rt": "G",
-		"len": 73
-		},
-		
-  {
-		"mv": "G-Force",
-		"yr": "2009",
-		"rt": "G",
-		"len": 89
-		},
-		
-  {
-		"mv": "Game Plan, The",
-		"yr": "2007",
-		"rt": "PG",
-		"len": 110
-		},
-		
-  {
-		"mv": "Geek Charming",
-		"yr": "2011",
-		"rt": "G",
-		"len": 98
-		},
-		
-  {
-		"mv": "Genius",
-		"yr": "1999",
-		"rt": "G",
-		"len": 82
-		},
-		
-  {
-		"mv": "George of the Jungle",
-		"yr": "1997",
-		"rt": "PG",
-		"len": 92
-		},
-		
-  {
-		"mv": "George of the Jungle 2",
-		"yr": "2003",
-		"rt": "PG",
-		"len": 87
-		},
-		
-  {
-		"mv": "Geppetto",
-		"yr": "2000",
-		"rt": "NR",
-		"len": 89
-		},
-		
-  {
-		"mv": "Get a Clue",
-		"yr": "2002",
-		"rt": "G",
-		"len": 83
-		},
-		
-  {
-		"mv": "Girl vs. Monster",
-		"yr": "2012",
-		"rt": "NR",
-		"len": 89
-		},
-		
-  {
-		"mv": "Glory Road",
-		"yr": "2006",
-		"rt": "PG",
-		"len": 118
-		},
-		
-  {
-		"mv": "Gnome-Mobile, The",
-		"yr": "1967",
-		"rt": "NR",
-		"len": 84
-		},
-		
-  {
-		"mv": "Go Figure",
-		"yr": "2005",
-		"rt": "G",
-		"len": 88
-		},
-		
-  {
-		"mv": "Going to the Mat",
-		"yr": "2004",
-		"rt": "G",
-		"len": 96
-		},
-		
-  {
-		"mv": "Good Dinosaur, The",
-		"yr": "2014",
-		"rt": "",
-		"len": 0
-		},
-		
-  {
-		"mv": "Good Luck Charlie, It's Christmas",
-		"yr": "2011",
-		"rt": "NR",
-		"len": 90
-		},
-		
-  {
-		"mv": "Goofy Movie, A",
-		"yr": "1995",
-		"rt": "G",
-		"len": 78
-		},
-		
-  {
-		"mv": "Gotta Kick It Up!",
-		"yr": "2002",
-		"rt": "G",
-		"len": 78
-		},
-		
-  {
-		"mv": "Great Locomotive Chase, The",
-		"yr": "1956",
-		"rt": "NR",
-		"len": 85
-		},
-		
-  {
-		"mv": "Greatest Game Ever Played, The",
-		"yr": "2005",
-		"rt": "PG",
-		"len": 120
-		},
-		
-  {
-		"mv": "Greyfriars Bobby",
-		"yr": "1961",
-		"rt": "NR",
-		"len": 87
-		},
-		
-  {
-		"mv": "Gus",
-		"yr": "1976",
-		"rt": "G",
-		"len": 96
-		},
-		
-  {
-		"mv": "H-E Double Hockey Sticks",
-		"yr": "1999",
-		"rt": "NR",
-		"len": 95
-		},
-		
-  {
-		"mv": "Halloweentown",
-		"yr": "1998",
-		"rt": "G",
-		"len": 84
-		},
-		
-  {
-		"mv": "Halloweentown High",
-		"yr": "2004",
-		"rt": "G",
-		"len": 83
-		},
-		
-  {
-		"mv": "Halloweentown II: Kalabar's Revenge",
-		"yr": "2001",
-		"rt": "NR",
-		"len": 81
-		},
-		
-  {
-		"mv": "Hannah Montana: The Movie",
-		"yr": "2009",
-		"rt": "G",
-		"len": 102
-		},
-		
-  {
-		"mv": "Happiest Millionaire, The",
-		"yr": "1967",
-		"rt": "G",
-		"len": 141
-		},
-		
-  {
-		"mv": "Hatching Pete",
-		"yr": "2009",
-		"rt": "G",
-		"len": 89
-		},
-		
-  {
-		"mv": "Haunted Mansion, The",
-		"yr": "2003",
-		"rt": "PG",
-		"len": 88
-		},
-		
-  {
-		"mv": "Heavy Weights",
-		"yr": "1995",
-		"rt": "PG",
-		"len": 100
-		},
-		
-  {
-		"mv": "Herbie Fully Loaded",
-		"yr": "2005",
-		"rt": "G",
-		"len": 101
-		},
-		
-  {
-		"mv": "Herbie Goes Bananas",
-		"yr": "1980",
-		"rt": "G",
-		"len": 100
-		},
-		
-  {
-		"mv": "Herbie Goes to Monte Carlo",
-		"yr": "1977",
-		"rt": "G",
-		"len": 105
-		},
-		
-  {
-		"mv": "Herbie Rides Again",
-		"yr": "1974",
-		"rt": "G",
-		"len": 88
-		},
-		
-  {
-		"mv": "Hercules",
-		"yr": "1997",
-		"rt": "G",
-		"len": 92
-		},
-		
-  {
-		"mv": "High School Musical",
-		"yr": "2006",
-		"rt": "PG",
-		"len": 93
-		},
-		
-  {
-		"mv": "High School Musical 2",
-		"yr": "2007",
-		"rt": "PG",
-		"len": 104
-		},
-		
-  {
-		"mv": "High School Musical 3: Senior Year",
-		"yr": "2008",
-		"rt": "PG",
-		"len": 100
-		},
-		
-  {
-		"mv": "Hill, The",
-		"yr": "2013",
-		"rt": "",
-		"len": 0
-		},
-		
-  {
-		"mv": "Hocus Pocus",
-		"yr": "1993",
-		"rt": "PG",
-		"len": 96
-		},
-		
-  {
-		"mv": "Holes",
-		"yr": "2003",
-		"rt": "PG",
-		"len": 117
-		},
-		
-  {
-		"mv": "Home on the Range",
-		"yr": "2004",
-		"rt": "PG",
-		"len": 76
-		},
-		
-  {
-		"mv": "Homeward Bound II: Lost in San Francisco",
-		"yr": "1996",
-		"rt": "G",
-		"len": 89
-		},
-		
-  {
-		"mv": "Homeward Bound: The Incredible Journey",
-		"yr": "1993",
-		"rt": "G",
-		"len": 84
-		},
-		
-  {
-		"mv": "Honey I Blew Up the Kid",
-		"yr": "1992",
-		"rt": "PG",
-		"len": 89
-		},
-		
-  {
-		"mv": "Honey, I Shrunk the Kids",
-		"yr": "1989",
-		"rt": "PG",
-		"len": 93
-		},
-		
-  {
-		"mv": "Horse in the Gray Flannel Suit, The",
-		"yr": "1968",
-		"rt": "G",
-		"len": 113
-		},
-		
-  {
-		"mv": "Horse Sense",
-		"yr": "1999",
-		"rt": "G",
-		"len": 92
-		},
-		
-  {
-		"mv": "Hot Lead and Cold Feet",
-		"yr": "1978",
-		"rt": "G",
-		"len": 90
-		},
-		
-  {
-		"mv": "Hounded",
-		"yr": "2001",
-		"rt": "G",
-		"len": 92
-		},
-		
-  {
-		"mv": "Howl's Moving Castle",
-		"yr": "2004",
-		"rt": "PG",
-		"len": 119
-		},
-		
-  {
-		"mv": "Hunchback of Notre Dame, The",
-		"yr": "1996",
-		"rt": "G",
-		"len": 91
-		},
-		
-  {
-		"mv": "I'll Be Home for Christmas",
-		"yr": "1998",
-		"rt": "PG",
-		"len": 86
-		},
-		
-  {
-		"mv": "Ice Princess",
-		"yr": "2005",
-		"rt": "G",
-		"len": 98
-		},
-		
-  {
-		"mv": "In Search of Castaways",
-		"yr": "1962",
-		"rt": "NR",
-		"len": 98
-		},
-		
-  {
-		"mv": "Incredible Journey, The",
-		"yr": "1963",
-		"rt": "G",
-		"len": 80
-		},
-		
-  {
-		"mv": "Incredibles, The",
-		"yr": "2004",
-		"rt": "PG",
-		"len": 115
-		},
-		
-  {
-		"mv": "Inside Out",
-		"yr": "2015",
-		"rt": "",
-		"len": 0
-		},
-		
-  {
-		"mv": "Inspector Gadget",
-		"yr": "1999",
-		"rt": "PG",
-		"len": 78
-		},
-		
-  {
-		"mv": "Inspector Gadget 2",
-		"yr": "2003",
-		"rt": "G",
-		"len": 89
-		},
-		
-  {
-		"mv": "Into The Woods",
-		"yr": "2014",
-		"rt": "",
-		"len": 0
-		},
-		
-  {
-		"mv": "Invincible",
-		"yr": "2006",
-		"rt": "PG",
-		"len": 105
-		},
-		
-  {
-		"mv": "Iron Will",
-		"yr": "1994",
-		"rt": "PG",
-		"len": 108
-		},
-		
-  {
-		"mv": "Island at the Top of the World, The",
-		"yr": "1974",
-		"rt": "NR",
-		"len": 93
-		},
-		
-  {
-		"mv": "James and the Giant Peach",
-		"yr": "1996",
-		"rt": "PG",
-		"len": 79
-		},
-		
-  {
-		"mv": "Jennie Project, The",
-		"yr": "2001",
-		"rt": "G",
-		"len": 76
-		},
-		
-  {
-		"mv": "Jett Jackson: The Movie",
-		"yr": "2001",
-		"rt": "G",
-		"len": 100
-		},
-		
-  {
-		"mv": "John Ca"rt"er",
-		"yr": "2012",
-		"rt": "PG-13",
-		"len": 132
-		},
-		
-  {
-		"mv": "Johnny Kapahala: Back on Board",
-		"yr": "2007",
-		"rt": "G",
-		"len": 92
-		},
-		
-  {
-		"mv": "Johnny Tremain",
-		"yr": "1957",
-		"rt": "NR",
-		"len": 80
-		},
-		
-  {
-		"mv": "Johnny Tsunami",
-		"yr": "1999",
-		"rt": "G",
-		"len": 88
-		},
-		
-  {
-		"mv": "Journey of Natty Gann, The",
-		"yr": "1985",
-		"rt": "PG",
-		"len": 101
-		},
-		
-  {
-		"mv": "Jump In!",
-		"yr": "2007",
-		"rt": "G",
-		"len": 85
-		},
-		
-  {
-		"mv": "Jumping Ship",
-		"yr": "2001",
-		"rt": "G",
-		"len": 93
-		},
-		
-  {
-		"mv": "Jungle 2 Jungle",
-		"yr": "1997",
-		"rt": "PG",
-		"len": 105
-		},
-		
-  {
-		"mv": "Jungle Book 2, The",
-		"yr": "2003",
-		"rt": "G",
-		"len": 72
-		},
-		
-  {
-		"mv": "Jungle Book, The",
-		"yr": "1967",
-		"rt": "G",
-		"len": 78
-		},
-		
-  {
-		"mv": "Jungle Cruise",
-		"yr": "2014",
-		"rt": "",
-		"len": 0
-		},
-		
-  {
-		"mv": "Kid in King A"rt"hur's Cou"rt", A",
-		"yr": "1995",
-		"rt": "PG",
-		"len": 89
-		},
-		
-  {
-		"mv": "Kid, The",
-		"yr": "2000",
-		"rt": "PG",
-		"len": 104
-		},
-		
-  {
-		"mv": "Kidnapped",
-		"yr": "1960",
-		"rt": "PG",
-		"len": 95
-		},
-		
-  {
-		"mv": "Kim Possible Movie: So the Drama",
-		"yr": "2005",
-		"rt": "G",
-		"len": 81
-		},
-		
-  {
-		"mv": "Kim Possible: A Sitch in Time",
-		"yr": "2003",
-		"rt": "G",
-		"len": 66
-		},
-		
-  {
-		"mv": "King of the Grizzlies",
-		"yr": "1970",
-		"rt": "G",
-		"len": 93
-		},
-		
-  {
-		"mv": "Knight In Camelot, A",
-		"yr": "1998",
-		"rt": "NR",
-		"len": 90
-		},
-		
-  {
-		"mv": "Kronk's New Groove",
-		"yr": "2005",
-		"rt": "G",
-		"len": 72
-		},
-		
-  {
-		"mv": "Lady and the Tramp",
-		"yr": "1955",
-		"rt": "G",
-		"len": 76
-		},
-		
-  {
-		"mv": "Lady and the Tramp II: Scamp's Adventure",
-		"yr": "2001",
-		"rt": "G",
-		"len": 69
-		},
-		
-  {
-		"mv": "Last Flight of Noah's Ark. The",
-		"yr": "1980",
-		"rt": "G",
-		"len": 97
-		},
-		
-  {
-		"mv": "Legend of Lobo, The",
-		"yr": "1962",
-		"rt": "G",
-		"len": 69
-		},
-		
-  {
-		"mv": "Lemonade Mouth",
-		"yr": "2011",
-		"rt": "G",
-		"len": 107
-		},
-		
-  {
-		"mv": "Let It Shine",
-		"yr": "2012",
-		"rt": "NR",
-		"len": 0
-		},
-		
-  {
-		"mv": "Life is Ruff",
-		"yr": "2005",
-		"rt": "G",
-		"len": 84
-		},
-		
-  {
-		"mv": "Light in the Forest, The",
-		"yr": "1958",
-		"rt": "NR",
-		"len": 83
-		},
-		
-  {
-		"mv": "Lilo & Stitch",
-		"yr": "2002",
-		"rt": "PG",
-		"len": 85
-		},
-		
-  {
-		"mv": "Lilo and Stitch 2: Stich Has a Glitch",
-		"yr": "2005",
-		"rt": "PG",
-		"len": 68
-		},
-		
-  {
-		"mv": "Lion King 1 1/2, The",
-		"yr": "2004",
-		"rt": "G",
-		"len": 77
-		},
-		
-  {
-		"mv": "Lion King II: Simbas Pride, The",
-		"yr": "1998",
-		"rt": "G",
-		"len": 81
-		},
-		
-  {
-		"mv": "Lion King, The",
-		"yr": "1994",
-		"rt": "G",
-		"len": 89
-		},
-		
-  {
-		"mv": "Little Mermaid II, The: Return to the Sea",
-		"yr": "2000",
-		"rt": "G",
-		"len": 72
-		},
-		
-  {
-		"mv": "Little Mermaid III - Ariel's Beginning",
-		"yr": "2008",
-		"rt": "NR",
-		"len": 77
-		},
-		
-  {
-		"mv": "Little Mermaid, The",
-		"yr": "1989",
-		"rt": "G",
-		"len": 83
-		},
-		
-  {
-		"mv": "Littlest Outlaw, The",
-		"yr": "1955",
-		"rt": "NR",
-		"len": 73
-		},
-		
-  {
-		"mv": "Lizzie McGuire Movie",
-		"yr": "2003",
-		"rt": "PG",
-		"len": 94
-		},
-		
-  {
-		"mv": "Lone Ranger",
-		"yr": "2013",
-		"rt": "PG-13",
-		"len": 149
-		},
-		
-  {
-		"mv": "Love Bug, The",
-		"yr": "1968",
-		"rt": "G",
-		"len": 107
-		},
-		
-  {
-		"mv": "Love Leads the Way",
-		"yr": "1984",
-		"rt": "NR",
-		"len": 99
-		},
-		
-  {
-		"mv": "Lt. Robin Crusoe, U.S.N.",
-		"yr": "1966",
-		"rt": "NR",
-		"len": 95
-		},
-		
-  {
-		"mv": "Luck of the Irish",
-		"yr": "2001",
-		"rt": "G",
-		"len": 86
-		},
-		
-  {
-		"mv": "Magic Kingdom",
-		"yr": "2013",
-		"rt": "",
-		"len": 0
-		},
-		
-  {
-		"mv": "Mail to the Chief",
-		"yr": "2000",
-		"rt": "NR",
-		"len": 89
-		},
-		
-  {
-		"mv": "Make Mine Music",
-		"yr": "1946",
-		"rt": "NR",
-		"len": 74
-		},
-		
-  {
-		"mv": "Maleficent",
-		"yr": "2014",
-		"rt": "",
-		"len": 0
-		},
-		
-  {
-		"mv": "Man of the House",
-		"yr": "1995",
-		"rt": "PG",
-		"len": 96
-		},
-		
-  {
-		"mv": "Many Adventures of Winnie the Pooh, The",
-		"yr": "1977",
-		"rt": "G",
-		"len": 74
-		},
-		
-  {
-		"mv": "Mars Needs Moms",
-		"yr": "2011",
-		"rt": "PG",
-		"len": 88
-		},
-		
-  {
-		"mv": "Mary Poppins",
-		"yr": "1964",
-		"rt": "G",
-		"len": 139
-		},
-		
-  {
-		"mv": "Max Keeble's Big Move",
-		"yr": "2001",
-		"rt": "PG",
-		"len": 86
-		},
-		
-  {
-		"mv": "McFarland",
-		"yr": "2013",
-		"rt": "",
-		"len": 0
-		},
-		
-  {
-		"mv": "Meet the Deedles",
-		"yr": "1998",
-		"rt": "PG",
-		"len": 93
-		},
-		
-  {
-		"mv": "Meet the Robinsons",
-		"yr": "2007",
-		"rt": "G",
-		"len": 102
-		},
-		
-  {
-		"mv": "Melody Time",
-		"yr": "1948",
-		"rt": "NR",
-		"len": 75
-		},
-		
-  {
-		"mv": "Mickey's Magical Christmas: Snowed in at the House of Mouse",
-		"yr": "2001",
-		"rt": "G",
-		"len": 65
-		},
-		
-  {
-		"mv": "Mickey's Once Upon a Christmas",
-		"yr": "1999",
-		"rt": "G",
-		"len": 66
-		},
-		
-  {
-		"mv": "Mickey's Twice Upon a Christmas",
-		"yr": "2004",
-		"rt": "G",
-		"len": 68
-		},
-		
-  {
-		"mv": "Midnight Madness",
-		"yr": "1980",
-		"rt": "PG",
-		"len": 112
-		},
-		
-  {
-		"mv": "Mighty Ducks, The",
-		"yr": "1992",
-		"rt": "PG",
-		"len": 100
-		},
-		
-  {
-		"mv": "Mighty Joe Young",
-		"yr": "1998",
-		"rt": "PG",
-		"len": 114
-		},
-		
-  {
-		"mv": "Million Dollar Arm",
-		"yr": "2014",
-		"rt": "",
-		"len": 0
-		},
-		
-  {
-		"mv": "Million Dollar Duck, The",
-		"yr": "1971",
-		"rt": "G",
-		"len": 89
-		},
-		
-  {
-		"mv": "Minutemen",
-		"yr": "2008",
-		"rt": "G",
-		"len": 98
-		},
-		
-  {
-		"mv": "Miracle",
-		"yr": "2004",
-		"rt": "PG",
-		"len": 135
-		},
-		
-  {
-		"mv": "Miracle in Lane 2",
-		"yr": "2000",
-		"rt": "G",
-		"len": 120
-		},
-		
-  {
-		"mv": "Miracle of the White Stallions",
-		"yr": "1963",
-		"rt": "G",
-		"len": 93
-		},
-		
-  {
-		"mv": "Misadventures of Merlin Jones, The",
-		"yr": "1964",
-		"rt": "NR",
-		"len": 91
-		},
-		
-  {
-		"mv": "Mom's Got A Date With A Vampire",
-		"yr": "2000",
-		"rt": "PG",
-		"len": 85
-		},
-		
-  {
-		"mv": "Monkey's Uncle, The",
-		"yr": "1965",
-		"rt": "NR",
-		"len": 87
-		},
-		
-  {
-		"mv": "Monkeys, Go Home!",
-		"yr": "1967",
-		"rt": "NR",
-		"len": 101
-		},
-		
-  {
-		"mv": "Monsters University",
-		"yr": "2013",
-		"rt": "",
-		"len": 0
-		},
-		
-  {
-		"mv": "Monsters, Inc",
-		"yr": "2001",
-		"rt": "G",
-		"len": 92
-		},
-		
-  {
-		"mv": "Moon Pilot",
-		"yr": "1962",
-		"rt": "NR",
-		"len": 98
-		},
-		
-  {
-		"mv": "Moon Spinners, The",
-		"yr": "1964",
-		"rt": "G",
-		"len": 118
-		},
-		
-  {
-		"mv": "Motocrossed",
-		"yr": "2001",
-		"rt": "NR",
-		"len": 88
-		},
-		
-  {
-		"mv": "Mr. Magoo",
-		"yr": "1997",
-		"rt": "PG",
-		"len": 87
-		},
-		
-  {
-		"mv": "Mulan",
-		"yr": "1998",
-		"rt": "G",
-		"len": 88
-		},
-		
-  {
-		"mv": "Mulan II",
-		"yr": "2004",
-		"rt": "G",
-		"len": 79
-		},
-		
-  {
-		"mv": "Muppet Christmas Carol, The",
-		"yr": "1992",
-		"rt": "G",
-		"len": 85
-		},
-		
-  {
-		"mv": "Muppet Movie, The",
-		"yr": "1979",
-		"rt": "G",
-		"len": 95
-		},
-		
-  {
-		"mv": "Muppet Treasure Island",
-		"yr": "1996",
-		"rt": "G",
-		"len": 99
-		},
-		
-  {
-		"mv": "Muppets, The",
-		"yr": "2011",
-		"rt": "PG",
-		"len": 103
-		},
-		
-  {
-		"mv": "Muppets: Most Wanted",
-		"yr": "2014",
-		"rt": "",
-		"len": 0
-		},
-		
-  {
-		"mv": "Mustang",
-		"yr": "1973",
-		"rt": "",
-		"len": 0
-		},
-		
-  {
-		"mv": "My Favorite Ma"rt"ian",
-		"yr": "1999",
-		"rt": "PG",
-		"len": 93
-		},
-		
-  {
-		"mv": "My Friends Tigger and Pooh: Super Sleuth Christmas",
-		"yr": "2007",
-		"rt": "NR",
-		"len": 44
-		},
-		
-  {
-		"mv": "Napoleon and Samantha",
-		"yr": "1972",
-		"rt": "G",
-		"len": 92
-		},
-		
-  {
-		"mv": "National Treasure",
-		"yr": "2004",
-		"rt": "PG",
-		"len": 131
-		},
-		
-  {
-		"mv": "National Treasure 3",
-		"yr": "2014",
-		"rt": "",
-		"len": 0
-		},
-		
-  {
-		"mv": "National Treasure: Book of Secrets",
-		"yr": "2007",
-		"rt": "PG",
-		"len": 124
-		},
-		
-  {
-		"mv": "Never A Dull Moment",
-		"yr": "1968",
-		"rt": "G",
-		"len": 99
-		},
-		
-  {
-		"mv": "Never Cry Wolf",
-		"yr": "1983",
-		"rt": "PG",
-		"len": 91
-		},
-		
-  {
-		"mv": "Newsies",
-		"yr": "1992",
-		"rt": "PG",
-		"len": 121
-		},
-		
-  {
-		"mv": "Night Crossing",
-		"yr": "1982",
-		"rt": "PG",
-		"len": 107
-		},
-		
-  {
-		"mv": "Nightmare Before Christmas, The",
-		"yr": "1993",
-		"rt": "PG",
-		"len": 76
-		},
-		
-  {
-		"mv": "No Deposit, No Return",
-		"yr": "1976",
-		"rt": "G",
-		"len": 112
-		},
-		
-  {
-		"mv": "No"rt"h Avenue Irregulars, The",
-		"yr": "1979",
-		"rt": "G",
-		"len": 100
-		},
-		
-  {
-		"mv": "No"rt"hern Lights",
-		"yr": "1997",
-		"rt": "NR",
-		"len": 111
-		},
-		
-  {
-		"mv": "Now You See Him, Now You Don't",
-		"yr": "1972",
-		"rt": "G",
-		"len": 88
-		},
-		
-  {
-		"mv": "Now You See It",
-		"yr": "2005",
-		"rt": "G",
-		"len": 83
-		},
-		
-  {
-		"mv": "Odd Life of Timothy Green, The",
-		"yr": "2012",
-		"rt": "PG",
-		"len": 105
-		},
-		
-  {
-		"mv": "Old Dogs",
-		"yr": "2009",
-		"rt": "PG",
-		"len": 88
-		},
-		
-  {
-		"mv": "Old Yeller",
-		"yr": "1957",
-		"rt": "G",
-		"len": 83
-		},
-		
-  {
-		"mv": "Oliver and Company",
-		"yr": "1988",
-		"rt": "g",
-		"len": 74
-		},
-		
-  {
-		"mv": "Once Upon a Mattress",
-		"yr": "2005",
-		"rt": "PG",
-		"len": 90
-		},
-		
-  {
-		"mv": "Once Upon A Warrior (Anaganaga O Dheerudu)",
-		"yr": "2011",
-		"rt": "PG-13",
-		"len": 133
-		},
-		
-  {
-		"mv": "One and Only, Genuine, Original Family Band, The",
-		"yr": "1968",
-		"rt": "G",
-		"len": 110
-		},
-		
-  {
-		"mv": "One Little Indian",
-		"yr": "1973",
-		"rt": "G",
-		"len": 90
-		},
-		
-  {
-		"mv": "One Magic Christmas",
-		"yr": "1985",
-		"rt": "G",
-		"len": 88
-		},
-		
-  {
-		"mv": "One of Our Dinosaurs is Missing",
-		"yr": "1975",
-		"rt": "G",
-		"len": 100
-		},
-		
-  {
-		"mv": "Operation Dumbo Drop",
-		"yr": "1995",
-		"rt": "PG",
-		"len": 107
-		},
-		
-  {
-		"mv": "Other Me, The",
-		"yr": "2000",
-		"rt": "G",
-		"len": 90
-		},
-		
-  {
-		"mv": "Other Side of Heaven, The",
-		"yr": "2001",
-		"rt": "PG",
-		"len": 113
-		},
-		
-  {
-		"mv": "Oz: The Great and Powerful",
-		"yr": "2013",
-		"rt": "PG",
-		"len": 130
-		},
-		
-  {
-		"mv": "Pacifier, The",
-		"yr": "2005",
-		"rt": "PG",
-		"len": 95
-		},
-		
-  {
-		"mv": "Parent Trap, The",
-		"yr": "1961",
-		"rt": "NR",
-		"len": 129
-		},
-		
-  {
-		"mv": "Parent Trap, The (new)",
-		"yr": "1998",
-		"rt": "PG",
-		"len": 127
-		},
-		
-  {
-		"mv": "Pete's Dragon",
-		"yr": "1977",
-		"rt": "G",
-		"len": 128
-		},
-		
-  {
-		"mv": "Peter Pan",
-		"yr": "1953",
-		"rt": "NR",
-		"len": 77
-		},
-		
-  {
-		"mv": "Phantom of the Megaplex",
-		"yr": "2000",
-		"rt": "G",
-		"len": 89
-		},
-		
-  {
-		"mv": "Phineas & Ferb: Across the 2nd Dimension",
-		"yr": "2011",
-		"rt": "G",
-		"len": 78
-		},
-		
-  {
-		"mv": "Phineas and Ferb Movie",
-		"yr": "2013",
-		"rt": "",
-		"len": 0
-		},
-		
-  {
-		"mv": "Piglet's Big Movie",
-		"yr": "2003",
-		"rt": "G",
-		"len": 75
-		},
-		
-  {
-		"mv": "Pinocchio",
-		"yr": "1940",
-		"rt": "G",
-		"len": 88
-		},
-		
-  {
-		"mv": "Pirate Fairy, The",
-		"yr": "2014",
-		"rt": "G",
-		"len": 90
-		},
-		
-  {
-		"mv": "Pirates of the Caribbean: At World's End",
-		"yr": "2007",
-		"rt": "PG-13",
-		"len": 148
-		},
-		
-  {
-		"mv": "Pirates of the Caribbean: Dead Man's Chest",
-		"yr": "2006",
-		"rt": "PG-13",
-		"len": 150
-		},
-		
-  {
-		"mv": "Pirates of the Caribbean: Dead Men Tell No Tales",
-		"yr": "2016",
-		"rt": "",
-		"len": 0
-		},
-		
-  {
-		"mv": "Pirates of the Caribbean: On Stranger Tides",
-		"yr": "2011",
-		"rt": "PG-13",
-		"len": 136
-		},
-		
-  {
-		"mv": "Pirates of the Caribbean: The Curse of the Black Pearl",
-		"yr": "2003",
-		"rt": "PG-13",
-		"len": 143
-		},
-		
-  {
-		"mv": "Pixel Perfect",
-		"yr": "2004",
-		"rt": "G",
-		"len": 85
-		},
-		
-  {
-		"mv": "Planes",
-		"yr": "2013",
-		"rt": "PG",
-		"len": 91
-		},
-		
-  {
-		"mv": "Planes: Fire Rescue",
-		"yr": "2014",
-		"rt": "NR",
-		"len": 0
-		},
-		
-  {
-		"mv": "Pocahontas",
-		"yr": "1995",
-		"rt": "G",
-		"len": 81
-		},
-		
-  {
-		"mv": "Pocahontas II: Journey to a New World",
-		"yr": "1998",
-		"rt": "G",
-		"len": 72
-		},
-		
-  {
-		"mv": "Pollyanna",
-		"yr": "1960",
-		"rt": "G",
-		"len": 134
-		},
-		
-  {
-		"mv": "Ponyo",
-		"yr": "2009",
-		"rt": "G",
-		"len": 103
-		},
-		
-  {
-		"mv": "Poof Point, The",
-		"yr": "2001",
-		"rt": "G",
-		"len": 90
-		},
-		
-  {
-		"mv": "Pooh's Heffalump Halloween Movie",
-		"yr": "2005",
-		"rt": "G",
-		"len": 67
-		},
-		
-  {
-		"mv": "Pooh's Heffalump Movie",
-		"yr": "2005",
-		"rt": "G",
-		"len": 68
-		},
-		
-  {
-		"mv": "Popeye",
-		"yr": "1980",
-		"rt": "PG",
-		"len": 114
-		},
-		
-  {
-		"mv": "Prince of Persia : Sands of Time",
-		"yr": "2010",
-		"rt": "PG",
-		"len": 116
-		},
-		
-  {
-		"mv": "Princess and the Frog, The",
-		"yr": "2009",
-		"rt": "G",
-		"len": 97
-		},
-		
-  {
-		"mv": "Princess Diaries 2: Royal Engagement",
-		"yr": "2004",
-		"rt": "G",
-		"len": 113
-		},
-		
-  {
-		"mv": "Princess Diaries, The",
-		"yr": "2001",
-		"rt": "G",
-		"len": 115
-		},
-		
-  {
-		"mv": "Princess Protection Program",
-		"yr": "2009",
-		"rt": "G",
-		"len": 89
-		},
-		
-  {
-		"mv": "Prom",
-		"yr": "2011",
-		"rt": "PG",
-		"len": 104
-		},
-		
-  {
-		"mv": "Proud Family Movie, The",
-		"yr": "2005",
-		"rt": "G",
-		"len": 90
-		},
-		
-  {
-		"mv": "Quints",
-		"yr": "2000",
-		"rt": "G",
-		"len": 83
-		},
-		
-  {
-		"mv": "Race to Witch Mountain",
-		"yr": "2009",
-		"rt": "PG",
-		"len": 98
-		},
-		
-  {
-		"mv": "Radio Rebel",
-		"yr": "2012",
-		"rt": "NR",
-		"len": 89
-		},
-		
-  {
-		"mv": "Rascal",
-		"yr": "1969",
-		"rt": "G",
-		"len": 85
-		},
-		
-  {
-		"mv": "Ratatouille",
-		"yr": "2007",
-		"rt": "G",
-		"len": 110
-		},
-		
-  {
-		"mv": "Read It And Weep",
-		"yr": "2006",
-		"rt": "G",
-		"len": 84
-		},
-		
-  {
-		"mv": "Ready to Run",
-		"yr": "2000",
-		"rt": "G",
-		"len": 96
-		},
-		
-  {
-		"mv": "Recess: School's Out",
-		"yr": "2001",
-		"rt": "G",
-		"len": 82
-		},
-		
-  {
-		"mv": "Reluctant Dragon, The",
-		"yr": "1941",
-		"rt": "NR",
-		"len": 74
-		},
-		
-  {
-		"mv": "Remember the Titans",
-		"yr": "2000",
-		"rt": "PG",
-		"len": 113
-		},
-		
-  {
-		"mv": "Rescuers Down Under, The",
-		"yr": "1990",
-		"rt": "G",
-		"len": 77
-		},
-		
-  {
-		"mv": "Rescuers, The",
-		"yr": "1977",
-		"rt": "G",
-		"len": 78
-		},
-		
-  {
-		"mv": "Return from Witch Mountain",
-		"yr": "1978",
-		"rt": "G",
-		"len": 95
-		},
-		
-  {
-		"mv": "Return to Halloweentown",
-		"yr": "2006",
-		"rt": "NR",
-		"len": 88
-		},
-		
-  {
-		"mv": "Return to Never Land",
-		"yr": "2002",
-		"rt": "G",
-		"len": 72
-		},
-		
-  {
-		"mv": "Return to Oz",
-		"yr": "1985",
-		"rt": "PG",
-		"len": 113
-		},
-		
-  {
-		"mv": "Return to Snowy River",
-		"yr": "1988",
-		"rt": "PG",
-		"len": 110
-		},
-		
-  {
-		"mv": "Ride A Wild Pony",
-		"yr": "1975",
-		"rt": "G",
-		"len": 91
-		},
-		
-  {
-		"mv": "Right On Track",
-		"yr": "2003",
-		"rt": "G",
-		"len": 89
-		},
-		
-  {
-		"mv": "Ring of Endless Light, A",
-		"yr": "2002",
-		"rt": "G",
-		"len": 88
-		},
-		
-  {
-		"mv": "Rip Girls",
-		"yr": "2000",
-		"rt": "G",
-		"len": 87
-		},
-		
-  {
-		"mv": "Rob Roy: The Highland Rogue",
-		"yr": "1953",
-		"rt": "NR",
-		"len": 91
-		},
-		
-  {
-		"mv": "Robin Hood",
-		"yr": "1973",
-		"rt": "G",
-		"len": 83
-		},
-		
-  {
-		"mv": "Rocket Man",
-		"yr": "1997",
-		"rt": "PG",
-		"len": 95
-		},
-		
-  {
-		"mv": "Rocketeer",
-		"yr": "1991",
-		"rt": "PG",
-		"len": 108
-		},
-		
-  {
-		"mv": "Rookie, The",
-		"yr": "2002",
-		"rt": "G",
-		"len": 127
-		},
-		
-  {
-		"mv": "Rudyard Kipling's The Jungle Book",
-		"yr": "1994",
-		"rt": "PG",
-		"len": 111
-		},
-		
-  {
-		"mv": "Run, Cougar, Run",
-		"yr": "1972",
-		"rt": "G",
-		"len": 87
-		},
-		
-  {
-		"mv": "Saludos Amigos",
-		"yr": "1943",
-		"rt": "NR",
-		"len": 75
-		},
-		
-  {
-		"mv": "Santa Buddies",
-		"yr": "2009",
-		"rt": "G",
-		"len": 88
-		},
-		
-  {
-		"mv": "Santa Clause 2: The Mrs. Clause",
-		"yr": "2002",
-		"rt": "G",
-		"len": 105
-		},
-		
-  {
-		"mv": "Santa Clause 3: The Escape Clause",
-		"yr": "2006",
-		"rt": "G",
-		"len": 98
-		},
-		
-  {
-		"mv": "Santa Clause, The",
-		"yr": "1994",
-		"rt": "PG",
-		"len": 97
-		},
-		
-  {
-		"mv": "Santa Paws 2: The Santa Pups",
-		"yr": "2012",
-		"rt": "G",
-		"len": 88
-		},
-		
-  {
-		"mv": "Savage Sam",
-		"yr": "1963",
-		"rt": "NR",
-		"len": 103
-		},
-		
-  {
-		"mv": "Saving Mr. Banks",
-		"yr": "2013",
-		"rt": "PG-13",
-		"len": 125
-		},
-		
-  {
-		"mv": "Scandalous John",
-		"yr": "1971",
-		"rt": "NR",
-		"len": 113
-		},
-		
-  {
-		"mv": "Scream Team, The",
-		"yr": "2002",
-		"rt": "G",
-		"len": 100
-		},
-		
-  {
-		"mv": "Search for Santa Paws, The",
-		"yr": "2010",
-		"rt": "G",
-		"len": 88
-		},
-		
-  {
-		"mv": "Secret of the Magic Gourd, The",
-		"yr": "2007",
-		"rt": "G",
-		"len": 85
-		},
-		
-  {
-		"mv": "Secret World of Arrietty, The",
-		"yr": "2012",
-		"rt": "G",
-		"len": 94
-		},
-		
-  {
-		"mv": "Secretariat",
-		"yr": "2010",
-		"rt": "PG",
-		"len": 123
-		},
-		
-  {
-		"mv": "Shaggy D.A., The",
-		"yr": "1976",
-		"rt": "G",
-		"len": 91
-		},
-		
-  {
-		"mv": "Shaggy Dog, The",
-		"yr": "2006",
-		"rt": "PG",
-		"len": 98
-		},
-		
-  {
-		"mv": "Sharpay's Fabulous Adventure",
-		"yr": "2011",
-		"rt": "G",
-		"len": 89
-		},
-		
-  {
-		"mv": "Shipwrecked",
-		"yr": "1990",
-		"rt": "PG",
-		"len": 92
-		},
-		
-  {
-		"mv": "Sign of Zorro, The",
-		"yr": "1960",
-		"rt": "NR",
-		"len": 91
-		},
-		
-  {
-		"mv": "Sky High",
-		"yr": "2005",
-		"rt": "PG",
-		"len": 100
-		},
-		
-  {
-		"mv": "Sleeping Beauty",
-		"yr": "1959",
-		"rt": "G",
-		"len": 75
-		},
-		
-  {
-		"mv": "Sma"rt" House",
-		"yr": "1999",
-		"rt": "G",
-		"len": 90
-		},
-		
-  {
-		"mv": "Smith!",
-		"yr": "1969",
-		"rt": "G",
-		"len": 112
-		},
-		
-  {
-		"mv": "Smoke",
-		"yr": "1970",
-		"rt": "NR",
-		"len": 80
-		},
-		
-  {
-		"mv": "Snow Buddies",
-		"yr": "2008",
-		"rt": "G",
-		"len": 87
-		},
-		
-  {
-		"mv": "Snow Dogs",
-		"yr": "2002",
-		"rt": "PG",
-		"len": 95
-		},
-		
-  {
-		"mv": "Snow White and the Seven Dwarfs",
-		"yr": "1937",
-		"rt": "NR",
-		"len": 83
-		},
-		
-  {
-		"mv": "Snowball Express",
-		"yr": "1972",
-		"rt": "NR",
-		"len": 93
-		},
-		
-  {
-		"mv": "So Dear to My Heart",
-		"yr": "1948",
-		"rt": "G",
-		"len": 82
-		},
-		
-  {
-		"mv": "Sofia the First: Once Upon a Princess",
-		"yr": "2012",
-		"rt": "G",
-		"len": 90
-		},
-		
-  {
-		"mv": "Something Wicked This Way Comes",
-		"yr": "1983",
-		"rt": "PG",
-		"len": 95
-		},
-		
-  {
-		"mv": "Son of Flubber",
-		"yr": "1963",
-		"rt": "",
-		"len": 100
-		},
-		
-  {
-		"mv": "Song of the South",
-		"yr": "1946",
-		"rt": "G",
-		"len": 94
-		},
-		
-  {
-		"mv": "Sorcerers Apprentice",
-		"yr": "2010",
-		"rt": "PG",
-		"len": 109
-		},
-		
-  {
-		"mv": "Space Buddies",
-		"yr": "2009",
-		"rt": "G",
-		"len": 84
-		},
-		
-  {
-		"mv": "Spirited Away",
-		"yr": "2001",
-		"rt": "PG",
-		"len": 125
-		},
-		
-  {
-		"mv": "Spooky Buddies",
-		"yr": "2011",
-		"rt": "G",
-		"len": 88
-		},
-		
-  {
-		"mv": "Squanto: A Warrior's Tale",
-		"yr": "1994",
-		"rt": "PG",
-		"len": 102
-		},
-		
-  {
-		"mv": "Star Struck",
-		"yr": "2010",
-		"rt": "NR",
-		"len": 90
-		},
-		
-  {
-		"mv": "Stepsister From Planet Weird",
-		"yr": "2000",
-		"rt": "G",
-		"len": 85
-		},
-		
-  {
-		"mv": "Story of Robin Hood and His Merrie Men, The",
-		"yr": "1952",
-		"rt": "PG",
-		"len": 84
-		},
-		
-  {
-		"mv": "Straight Story, The",
-		"yr": "1999",
-		"rt": "G",
-		"len": 112
-		},
-		
-  {
-		"mv": "Strongest Man in the World, The",
-		"yr": "1975",
-		"rt": "G",
-		"len": 92
-		},
-		
-  {
-		"mv": "Stuck in the Suburbs",
-		"yr": "2004",
-		"rt": "G",
-		"len": 82
-		},
-		
-  {
-		"mv": "Suite Life Movie, The",
-		"yr": "2011",
-		"rt": "NR",
-		"len": 79
-		},
-		
-  {
-		"mv": "Summer Magic",
-		"yr": "1963",
-		"rt": "G",
-		"len": 109
-		},
-		
-  {
-		"mv": "Super Buddies",
-		"yr": "2013",
-		"rt": "G",
-		"len": 130
-		},
-		
-  {
-		"mv": "Superdad",
-		"yr": "1973",
-		"rt": "G",
-		"len": 96
-		},
-		
-  {
-		"mv": "Swiss Family Robinson",
-		"yr": "1960",
-		"rt": "G",
-		"len": 126
-		},
-		
-  {
-		"mv": "Sword and the Rose, The",
-		"yr": "1953",
-		"rt": "NR",
-		"len": 92
-		},
-		
-  {
-		"mv": "Sword in the Stone, The",
-		"yr": "1963",
-		"rt": "G",
-		"len": 79
-		},
-		
-  {
-		"mv": "Tale of Two Critters, A",
-		"yr": "1977",
-		"rt": "G",
-		"len": 48
-		},
-		
-  {
-		"mv": "Tall Tale",
-		"yr": "1995",
-		"rt": "PG",
-		"len": 98
-		},
-		
-  {
-		"mv": "Tangled",
-		"yr": "2010",
-		"rt": "PG",
-		"len": 100
-		},
-		
-  {
-		"mv": "Tarzan",
-		"yr": "1999",
-		"rt": "G",
-		"len": 88
-		},
-		
-  {
-		"mv": "Teacher's Pet",
-		"yr": "2004",
-		"rt": "PG",
-		"len": 74
-		},
-		
-  {
-		"mv": "Teen Beach Movie",
-		"yr": "2013",
-		"rt": "PG",
-		"len": 110
-		},
-		
-  {
-		"mv": "Ten Who Dared",
-		"yr": "1960",
-		"rt": "NR",
-		"len": 92
-		},
-		
-  {
-		"mv": "Tex",
-		"yr": "1982",
-		"rt": "PG",
-		"len": 103
-		},
-		
-  {
-		"mv": "Third Man on the Mountain",
-		"yr": "1959",
-		"rt": "G",
-		"len": 105
-		},
-		
-  {
-		"mv": "Thi"rt"eenth Year, The",
-		"yr": "1999",
-		"rt": "G",
-		"len": 95
-		},
-		
-  {
-		"mv": "Those Calloways",
-		"yr": "1965",
-		"rt": "NR",
-		"len": 126
-		},
-		
-  {
-		"mv": "Three Caballeros, The",
-		"yr": "1944",
-		"rt": "G",
-		"len": 69
-		},
-		
-  {
-		"mv": "Three Lives of Thomasina, The",
-		"yr": "1964",
-		"rt": "NR",
-		"len": 97
-		},
-		
-  {
-		"mv": "Three Musketeers, The",
-		"yr": "1993",
-		"rt": "PG",
-		"len": 105
-		},
-		
-  {
-		"mv": "Three Musketeers, The (Animated)",
-		"yr": "2004",
-		"rt": "G",
-		"len": 68
-		},
-		
-  {
-		"mv": "Tiger Cruise",
-		"yr": "2004",
-		"rt": "PG",
-		"len": 88
-		},
-		
-  {
-		"mv": "Tiger Town",
-		"yr": "1983",
-		"rt": "NR",
-		"len": 95
-		},
-		
-  {
-		"mv": "Tiger Walks, A",
-		"yr": "1964",
-		"rt": "NR",
-		"len": 91
-		},
-		
-  {
-		"mv": "Tigger & Pooh and a Musical Too",
-		"yr": "2009",
-		"rt": "NR",
-		"len": 60
-		},
-		
-  {
-		"mv": "Tinker Bell",
-		"yr": "2008",
-		"rt": "G",
-		"len": 70
-		},
-		
-  {
-		"mv": "Tinker Bell and the Great Fairy Rescue",
-		"yr": "2010",
-		"rt": "G",
-		"len": 76
-		},
-		
-  {
-		"mv": "Tinker Bell and the Lost Treasure",
-		"yr": "2009",
-		"rt": "G",
-		"len": 81
-		},
-		
-  {
-		"mv": "Tinker Bell: Secret of the Wings",
-		"yr": "2012",
-		"rt": "G",
-		"len": 0
-		},
-		
-  {
-		"mv": "Toby Tyler",
-		"yr": "1960",
-		"rt": "G",
-		"len": 96
-		},
-		
-  {
-		"mv": "Tom and Huck",
-		"yr": "1995",
-		"rt": "PG",
-		"len": 97
-		},
-		
-  {
-		"mv": "Tomorrowland",
-		"yr": "2014",
-		"rt": "",
-		"len": 0
-		},
-		
-  {
-		"mv": "Tonka",
-		"yr": "1958",
-		"rt": "NR",
-		"len": 98
-		},
-		
-  {
-		"mv": "Tower of Terror",
-		"yr": "1997",
-		"rt": "UR",
-		"len": 89
-		},
-		
-  {
-		"mv": "Toy Story",
-		"yr": "1995",
-		"rt": "G",
-		"len": 85
-		},
-		
-  {
-		"mv": "Toy Story 2",
-		"yr": "1999",
-		"rt": "G",
-		"len": 92
-		},
-		
-  {
-		"mv": "Toy Story 3",
-		"yr": "2010",
-		"rt": "G",
-		"len": 103
-		},
-		
-  {
-		"mv": "Toy Story 4",
-		"yr": "2015",
-		"rt": "",
-		"len": 0
-		},
-		
-  {
-		"mv": "Treasure Buddies",
-		"yr": "2012",
-		"rt": "G",
-		"len": 92
-		},
-		
-  {
-		"mv": "Treasure Island",
-		"yr": "1950",
-		"rt": "PG",
-		"len": 96
-		},
-		
-  {
-		"mv": "Treasure of Matecumbe",
-		"yr": "1976",
-		"rt": "G",
-		"len": 117
-		},
-		
-  {
-		"mv": "Treasure Planet",
-		"yr": "2002",
-		"rt": "PG",
-		"len": 95
-		},
-		
-  {
-		"mv": "Trenchcoat",
-		"yr": "1983",
-		"rt": "PG",
-		"len": 91
-		},
-		
-  {
-		"mv": "Tron",
-		"yr": "1982",
-		"rt": "PG",
-		"len": 96
-		},
-		
-  {
-		"mv": "TRON Legacy",
-		"yr": "2010",
-		"rt": "PG",
-		"len": 127
-		},
-		
-  {
-		"mv": "Tru Confessions",
-		"yr": "2002",
-		"rt": "G",
-		"len": 81
-		},
-		
-  {
-		"mv": "Tuck Everlasting",
-		"yr": "2002",
-		"rt": "PG",
-		"len": 90
-		},
-		
-  {
-		"mv": "Twas the Night",
-		"yr": "2001",
-		"rt": "NR",
-		"len": 84
-		},
-		
-  {
-		"mv": "Twitches",
-		"yr": "2005",
-		"rt": "PG",
-		"len": 86
-		},
-		
-  {
-		"mv": "Twitches Too",
-		"yr": "2007",
-		"rt": "NR",
-		"len": 83
-		},
-		
-  {
-		"mv": "Ugly Dachshund, The",
-		"yr": "1966",
-		"rt": "NR",
-		"len": 93
-		},
-		
-  {
-		"mv": "Ultimate Christmas Present, The",
-		"yr": "2000",
-		"rt": "G",
-		"len": 85
-		},
-		
-  {
-		"mv": "Under Wraps",
-		"yr": "1997",
-		"rt": "NR",
-		"len": 95
-		},
-		
-  {
-		"mv": "Underdog",
-		"yr": "2007",
-		"rt": "PG",
-		"len": 84
-		},
-		
-  {
-		"mv": "Unidentified Flying Oddball",
-		"yr": "1979",
-		"rt": "G",
-		"len": 93
-		},
-		
-  {
-		"mv": "Up",
-		"yr": "2009",
-		"rt": "G",
-		"len": 86
-		},
-		
-  {
-		"mv": "Up, Up, and Away",
-		"yr": "2000",
-		"rt": "G",
-		"len": 90
-		},
-		
-  {
-		"mv": "Valiant",
-		"yr": "2005",
-		"rt": "G",
-		"len": 76
-		},
-		
-  {
-		"mv": "Victory Through Air Power",
-		"yr": "1943",
-		"rt": "G",
-		"len": 70
-		},
-		
-  {
-		"mv": "Wall E",
-		"yr": "2008",
-		"rt": "G",
-		"len": 98
-		},
-		
-  {
-		"mv": "Watcher in the Woods, The",
-		"yr": "1980",
-		"rt": "PG",
-		"len": 84
-		},
-		
-  {
-		"mv": "Wendy Wu: Homecoming Warrior",
-		"yr": "2006",
-		"rt": "TV-PG",
-		"len": 91
-		},
-		
-  {
-		"mv": "Westward Ho, The Wagons!",
-		"yr": "1956",
-		"rt": "NR",
-		"len": 90
-		},
-		
-  {
-		"mv": "Where the Toys Come From",
-		"yr": "1984",
-		"rt": "NR",
-		"len": 58
-		},
-		
-  {
-		"mv": "Whispers: An Elephant's Tale",
-		"yr": "2000",
-		"rt": "G",
-		"len": 72
-		},
-		
-  {
-		"mv": "White Fang",
-		"yr": "1991",
-		"rt": "PG",
-		"len": 107
-		},
-		
-  {
-		"mv": "White Fang 2",
-		"yr": "1994",
-		"rt": "PG",
-		"len": 106
-		},
-		
-  {
-		"mv": "Wild Country, The",
-		"yr": "1970",
-		"rt": "G",
-		"len": 100
-		},
-		
-  {
-		"mv": "Wild Hea"rt"s Can't Be Broken",
-		"yr": "1991",
-		"rt": "G",
-		"len": 88
-		},
-		
-  {
-		"mv": "Wild, The",
-		"yr": "2006",
-		"rt": "G",
-		"len": 94
-		},
-		
-  {
-		"mv": "Winnie the Pooh",
-		"yr": "2011",
-		"rt": "G",
-		"len": 63
-		},
-		
-  {
-		"mv": "Winnie the Pooh: A Very Merry Christmas",
-		"yr": "2002",
-		"rt": "G",
-		"len": 65
-		},
-		
-  {
-		"mv": "Winnie the Pooh: Springtime with Roo",
-		"yr": "2004",
-		"rt": "G",
-		"len": 65
-		},
-		
-  {
-		"mv": "Wizards of Waverly Place: The Movie",
-		"yr": "2009",
-		"rt": "G",
-		"len": 98
-		},
-		
-  {
-		"mv": "Wonderful Ice Cream Suit, The",
-		"yr": "1998",
-		"rt": "PG",
-		"len": 77
-		},
-		
-  {
-		"mv": "World's Greatest Athlete, The",
-		"yr": "1973",
-		"rt": "G",
-		"len": 93
-		},
-		
-  {
-		"mv": "Wreck-It Ralph",
-		"yr": "2012",
-		"rt": "PG",
-		"len": 108
-		},
-		
-  {
-		"mv": "You Lucky Dog",
-		"yr": "1998",
-		"rt": "G",
-		"len": 89
-		},
-		
-  {
-		"mv": "You Wish!",
-		"yr": "2003",
-		"rt": "NR",
-		"len": 100
-		},
-		
-  {
-		"mv": "Young Black Stallion, The",
-		"yr": "2003",
-		"rt": "G",
-		"len": 45
-		},
-		
-  {
-		"mv": "Zenon: Girl of the 21st Century",
-		"yr": "1999",
-		"rt": "G",
-		"len": 97
-		},
-		
-  {
-		"mv": "Zenon: The Zequel",
-		"yr": "2001",
-		"rt": "G",
-		"len": 100
-		},
-		
-  {
-		"mv": "Zenon: Z3",
-		"yr": "2004",
-		"rt": "G",
-		"len": 81
-		},
-		
-  {
-		"mv": "Zootopia",
-		"yr": "2016",
-		"rt": "",
-		"len": 0
-		}
-  ]
+[
+
+ {
+   "mv": "101 Dalmatians",
+   "yr": "1996",
+   "rt": "G",
+   "len": 103
+ },
+
+ {
+   "mv": "101 Dalmatians (Animated)",
+   "yr": "1961",
+   "rt": "G",
+   "len": 79
+ },
+
+ {
+   "mv": "101 Dalmations II: Patch's London Adventure",
+   "yr": "2003",
+   "rt": "G",
+   "len": 70
+ },
+
+ {
+   "mv": "102 Dalmatians",
+   "yr": "2000",
+   "rt": "G",
+   "len": 100
+ },
+
+ {
+   "mv": "20,000 Leagues Under the Sea",
+   "yr": "1954",
+   "rt": "NR",
+   "len": 127
+ },
+
+ {
+   "mv": "Absent-Minded Professor, The",
+   "yr": "1961",
+   "rt": "NR",
+   "len": 92
+ },
+
+ {
+   "mv": "Adventures of Bullwhip Griffin, The",
+   "yr": "1967",
+   "rt": "NR",
+   "len": 108
+ },
+
+ {
+   "mv": "Adventures of Huck Finn, The",
+   "yr": "1993",
+   "rt": "PG",
+   "len": 108
+ },
+
+ {
+   "mv": "Adventures of Ichabod and Mr. Toad, The",
+   "yr": "1949",
+   "rt": "NR",
+   "len": 68
+ },
+
+ {
+   "mv": "Air Bud",
+   "yr": "1997",
+   "rt": "PG",
+   "len": 98
+ },
+
+ {
+   "mv": "Air Bud 3: World Pup",
+   "yr": "2000",
+   "rt": "G",
+   "len": 83
+ },
+
+ {
+   "mv": "Air Bud Spikes Back",
+   "yr": "2003",
+   "rt": "G",
+   "len": 87
+ },
+
+ {
+   "mv": "Air Bud: Golden Receiver",
+   "yr": "1998",
+   "rt": "G",
+   "len": 90
+ },
+
+ {
+   "mv": "Air Bud: Seventh Inning Fetch",
+   "yr": "2002",
+   "rt": "G",
+   "len": 93
+ },
+
+ {
+   "mv": "Air Buddies",
+   "yr": "2006",
+   "rt": "PG",
+   "len": 80
+ },
+
+ {
+   "mv": "Aladdin",
+   "yr": "1992",
+   "rt": "G",
+   "len": 90
+ },
+
+ {
+   "mv": "Alexander and the Terrible, Horrible, No Good, Very Bad Day",
+   "yr": "2014",
+   "rt": "",
+   "len": 0
+ },
+
+ {
+   "mv": "Alice In Wonderland",
+   "yr": "2010",
+   "rt": "PG",
+   "len": 108
+ },
+
+ {
+   "mv": "Alley Cats Strike",
+   "yr": "2000",
+   "rt": "G",
+   "len": 87
+ },
+
+ {
+   "mv": "Almost Angels",
+   "yr": "1962",
+   "rt": "NR",
+   "len": 93
+ },
+
+ {
+   "mv": "Amy",
+   "yr": "1981",
+   "rt": "G",
+   "len": 100
+ },
+
+ {
+   "mv": "Angels in the Endzone",
+   "yr": "1997",
+   "rt": "",
+   "len": 88
+ },
+
+ {
+   "mv": "Angels In The Infield",
+   "yr": "2000",
+   "rt": "PG",
+   "len": 87
+ },
+
+ {
+   "mv": "Angels in the Outfield",
+   "yr": "1994",
+   "rt": "PG",
+   "len": 102
+ },
+
+ {
+   "mv": "Apple Dumpling Gang Rides Again",
+   "yr": "1979",
+   "rt": "G",
+   "len": 88
+ },
+
+ {
+   "mv": "Apple Dumpling Gang, The",
+   "yr": "1975",
+   "rt": "G",
+   "len": 100
+ },
+
+ {
+   "mv": "AristoCats, The",
+   "yr": "1970",
+   "rt": "G",
+   "len": 78
+ },
+
+ {
+   "mv": "Around the World in 80 Days",
+   "yr": "1957",
+   "rt": "PG",
+   "len": 120
+ },
+
+ {
+   "mv": "Atlantis: Milo's Return",
+   "yr": "2003",
+   "rt": "G",
+   "len": 70
+ },
+
+ {
+   "mv": "Atlantis: The Lost Empire",
+   "yr": "2001",
+   "rt": "PG",
+   "len": 95
+ },
+
+ {
+   "mv": "Avalon High",
+   "yr": "2010",
+   "rt": "PG",
+   "len": 0
+ },
+
+ {
+   "mv": "Babes in Toyland",
+   "yr": "1961",
+   "rt": "NR",
+   "len": 106
+ },
+
+ {
+   "mv": "Bambi",
+   "yr": "1942",
+   "rt": "NR",
+   "len": 69
+ },
+
+ {
+   "mv": "Bambi II",
+   "yr": "2006",
+   "rt": "G",
+   "len": 70
+ },
+
+ {
+   "mv": "Barefoot Executive, The",
+   "yr": "1971",
+   "rt": "NR",
+   "len": 96
+ },
+
+ {
+   "mv": "Basil - The Great Mouse Detective",
+   "yr": "1986",
+   "rt": "G",
+   "len": 74
+ },
+
+ {
+   "mv": "Bears and I, The",
+   "yr": "1974",
+   "rt": "G",
+   "len": 89
+ },
+
+ {
+   "mv": "Beauty and the Beast",
+   "yr": "1991",
+   "rt": "G",
+   "len": 84
+ },
+
+ {
+   "mv": "Beauty and the Beast: The Enchanted Christmas",
+   "yr": "1997",
+   "rt": "G",
+   "len": 72
+ },
+
+ {
+   "mv": "Bedknobs and Broomsticks",
+   "yr": "1971",
+   "rt": "G",
+   "len": 117
+ },
+
+ {
+   "mv": "Bedtime Stories",
+   "yr": "2008",
+   "rt": "PG",
+   "len": 99
+ },
+
+ {
+   "mv": "Benji the Hunted",
+   "yr": "1987",
+   "rt": "G",
+   "len": 88
+ },
+
+ {
+   "mv": "Beverly Hills Chihuahua",
+   "yr": "2008",
+   "rt": "PG",
+   "len": 93
+ },
+
+ {
+   "mv": "Beverly Hills Chihuahua 2",
+   "yr": "2011",
+   "rt": "G",
+   "len": 84
+ },
+
+ {
+   "mv": "Beverly Hills Chihuahua 3: Viva La Fiesta!",
+   "yr": "2012",
+   "rt": "G",
+   "len": 90
+ },
+
+ {
+   "mv": "Big Green, The",
+   "yr": "1995",
+   "rt": "PG",
+   "len": 100
+ },
+
+ {
+   "mv": "Big Hero 6",
+   "yr": "2014",
+   "rt": "",
+   "len": 0
+ },
+
+ {
+   "mv": "Big Red",
+   "yr": "1962",
+   "rt": "NR",
+   "len": 89
+ },
+
+ {
+   "mv": "Biscuit Eater, The",
+   "yr": "1972",
+   "rt": "G",
+   "len": 90
+ },
+
+ {
+   "mv": "Black Cauldron, The",
+   "yr": "1985",
+   "rt": "PG",
+   "len": 80
+ },
+
+ {
+   "mv": "Black Hole, The",
+   "yr": "1979",
+   "rt": "PG",
+   "len": 98
+ },
+
+ {
+   "mv": "Blackbeard's Ghost",
+   "yr": "1968",
+   "rt": "G",
+   "len": 106
+ },
+
+ {
+   "mv": "Blank Check",
+   "yr": "1994",
+   "rt": "PG",
+   "len": 93
+ },
+
+ {
+   "mv": "Boatniks, The",
+   "yr": "1970",
+   "rt": "G",
+   "len": 99
+ },
+
+ {
+   "mv": "Bolt",
+   "yr": "2008",
+   "rt": "G",
+   "len": 96
+ },
+
+ {
+   "mv": "Bon Voyage!",
+   "yr": "1962",
+   "rt": "NR",
+   "len": 130
+ },
+
+ {
+   "mv": "Boy Who Talked to Badgers, The",
+   "yr": "1975",
+   "rt": "",
+   "len": 98
+ },
+
+ {
+   "mv": "Brave",
+   "yr": "2012",
+   "rt": "PG",
+   "len": 100
+ },
+
+ {
+   "mv": "Brave Little Toaster, The",
+   "yr": "1987",
+   "rt": "",
+   "len": 90
+ },
+
+ {
+   "mv": "Bridge to Terabithia",
+   "yr": "2007",
+   "rt": "PG",
+   "len": 95
+ },
+
+ {
+   "mv": "Brink!",
+   "yr": "1998",
+   "rt": "NR",
+   "len": 99
+ },
+
+ {
+   "mv": "Brother Bear",
+   "yr": "2003",
+   "rt": "G",
+   "len": 82
+ },
+
+ {
+   "mv": "Brother Bear 2",
+   "yr": "2006",
+   "rt": "G",
+   "len": 70
+ },
+
+ {
+   "mv": "Buffalo Dreams",
+   "yr": "2005",
+   "rt": "NR",
+   "len": 90
+ },
+
+ {
+   "mv": "Bugs Life, A",
+   "yr": "1998",
+   "rt": "G",
+   "len": 96
+ },
+
+ {
+   "mv": "Cadet Kelly",
+   "yr": "2002",
+   "rt": "G",
+   "len": 101
+ },
+
+ {
+   "mv": "Camp Rock",
+   "yr": "2008",
+   "rt": "G",
+   "len": 94
+ },
+
+ {
+   "mv": "Camp Rock 2: The Final Jam",
+   "yr": "2010",
+   "rt": "G",
+   "len": 97
+ },
+
+ {
+   "mv": "Can of Worms",
+   "yr": "1999",
+   "rt": "PG",
+   "len": 90
+ },
+
+ {
+   "mv": "Candleshoe",
+   "yr": "1977",
+   "rt": "G",
+   "len": 101
+ },
+
+ {
+   "mv": "Cars",
+   "yr": "2006",
+   "rt": "G",
+   "len": 116
+ },
+
+ {
+   "mv": "Cars 2",
+   "yr": "2011",
+   "rt": "G",
+   "len": 113
+ },
+
+ {
+   "mv": "Castaway Cowboy",
+   "yr": "1974",
+   "rt": "G",
+   "len": 91
+ },
+
+ {
+   "mv": "Cat from Outer Space, The",
+   "yr": "1978",
+   "rt": "G",
+   "len": 104
+ },
+
+ {
+   "mv": "Chandar, the Black Leopard of Ceylon",
+   "yr": "1972",
+   "rt": "NR",
+   "len": 90
+ },
+
+ {
+   "mv": "Charley and the Angel",
+   "yr": "1973",
+   "rt": "G",
+   "len": 93
+ },
+
+ {
+   "mv": "Charlie, the Lonesome Cougar",
+   "yr": "1967",
+   "rt": "NR",
+   "len": 75
+ },
+
+ {
+   "mv": "Cheetah",
+   "yr": "1989",
+   "rt": "G",
+   "len": 83
+ },
+
+ {
+   "mv": "Cheetah Girls 2, The",
+   "yr": "2006",
+   "rt": "G",
+   "len": 96
+ },
+
+ {
+   "mv": "Cheetah Girls, The",
+   "yr": "2003",
+   "rt": "NR",
+   "len": 100
+ },
+
+ {
+   "mv": "Cheetah Girls, The: One World",
+   "yr": "2008",
+   "rt": "G",
+   "len": 90
+ },
+
+ {
+   "mv": "Chicken Little",
+   "yr": "2005",
+   "rt": "G",
+   "len": 81
+ },
+
+ {
+   "mv": "Christmas Carol, A",
+   "yr": "2009",
+   "rt": "PG",
+   "len": 98
+ },
+
+ {
+   "mv": "Chronicles of Narnia: Prince Caspian",
+   "yr": "2008",
+   "rt": "PG",
+   "len": 144
+ },
+
+ {
+   "mv": "Chronicles of Narnia: The Lion, Witch and the Wardrobe",
+   "yr": "2005",
+   "rt": "PG",
+   "len": 143
+ },
+
+ {
+   "mv": "Cinderella",
+   "yr": "2015",
+   "rt": "",
+   "len": 0
+ },
+
+ {
+   "mv": "Cinderella II: Dreams Come True",
+   "yr": "2002",
+   "rt": "G",
+   "len": 73
+ },
+
+ {
+   "mv": "Cinderella III: A Twist in Time",
+   "yr": "2007",
+   "rt": "G",
+   "len": 70
+ },
+
+ {
+   "mv": "College Road Trip",
+   "yr": "2008",
+   "rt": "G",
+   "len": 83
+ },
+
+ {
+   "mv": "Color of Friendship, The",
+   "yr": "2000",
+   "rt": "G",
+   "len": 87
+ },
+
+ {
+   "mv": "Computer Wore Tennis Shoes, The",
+   "yr": "1969",
+   "rt": "G",
+   "len": 91
+ },
+
+ {
+   "mv": "Condorman",
+   "yr": "1981",
+   "rt": "PG",
+   "len": 90
+ },
+
+ {
+   "mv": "Confessions of a Teenage Drama Queen",
+   "yr": "2004",
+   "rt": "PG",
+   "len": 89
+ },
+
+ {
+   "mv": "Cool Runnings",
+   "yr": "1993",
+   "rt": "PG",
+   "len": 98
+ },
+
+ {
+   "mv": "Country Bears, The",
+   "yr": "2002",
+   "rt": "G",
+   "len": 88
+ },
+
+ {
+   "mv": "Cow Belles",
+   "yr": "2006",
+   "rt": "G",
+   "len": 90
+ },
+
+ {
+   "mv": "D2: The Mighty Ducks",
+   "yr": "1994",
+   "rt": "PG",
+   "len": 106
+ },
+
+ {
+   "mv": "D3: The Mighty Ducks",
+   "yr": "1996",
+   "rt": "PG",
+   "len": 104
+ },
+
+ {
+   "mv": "Dadnapped",
+   "yr": "2009",
+   "rt": "G",
+   "len": 90
+ },
+
+ {
+   "mv": "Darby O'Gill and the Little People",
+   "yr": "1959",
+   "rt": "NR",
+   "len": 93
+ },
+
+ {
+   "mv": "Darn Cat, That",
+   "yr": "1997",
+   "rt": "PG",
+   "len": 89
+ },
+
+ {
+   "mv": "Davy Crockett and the River Pirates",
+   "yr": "1956",
+   "rt": "G",
+   "len": 81
+ },
+
+ {
+   "mv": "Davy Crockett, King of the Wild Frontier",
+   "yr": "1955",
+   "rt": "G",
+   "len": 93
+ },
+
+ {
+   "mv": "Den Brother",
+   "yr": "2010",
+   "rt": "G",
+   "len": 89
+ },
+
+ {
+   "mv": "Devil and Max Devlin, The",
+   "yr": "1981",
+   "rt": "PG",
+   "len": 96
+ },
+
+ {
+   "mv": "Dinosaur",
+   "yr": "2000",
+   "rt": "G",
+   "len": 82
+ },
+
+ {
+   "mv": "Don't Look Under The Bed",
+   "yr": "1999",
+   "rt": "NR",
+   "len": 92
+ },
+
+ {
+   "mv": "Double Teamed",
+   "yr": "2002",
+   "rt": "G",
+   "len": 120
+ },
+
+ {
+   "mv": "Doug's 1st Movie",
+   "yr": "1999",
+   "rt": "G",
+   "len": 77
+ },
+
+ {
+   "mv": "Dragonslayer",
+   "yr": "1981",
+   "rt": "PG",
+   "len": 108
+ },
+
+ {
+   "mv": "DuckTales: The Movie - Treasure of the Lost Lamp",
+   "yr": "1990",
+   "rt": "G",
+   "len": 74
+ },
+
+ {
+   "mv": "Dumbo",
+   "yr": "1941",
+   "rt": "G",
+   "len": 64
+ },
+
+ {
+   "mv": "Eddie's Million Dollar Cook-Off",
+   "yr": "2003",
+   "rt": "NR",
+   "len": 85
+ },
+
+ {
+   "mv": "Eight Below",
+   "yr": "2006",
+   "rt": "PG",
+   "len": 120
+ },
+
+ {
+   "mv": "Emil and the Detectives",
+   "yr": "1964",
+   "rt": "NR",
+   "len": 92
+ },
+
+ {
+   "mv": "Emperor's New Groove 2: Kronk's New Groove",
+   "yr": "2005",
+   "rt": "G",
+   "len": 72
+ },
+
+ {
+   "mv": "Emperor's New Groove, The",
+   "yr": "2000",
+   "rt": "G",
+   "len": 78
+ },
+
+ {
+   "mv": "Enchanted",
+   "yr": "2007",
+   "rt": "PG",
+   "len": 107
+ },
+
+ {
+   "mv": "Endurance",
+   "yr": "1999",
+   "rt": "PG",
+   "len": 83
+ },
+
+ {
+   "mv": "Escape From The Dark (The Littlest Horse Thieves)",
+   "yr": "1976",
+   "rt": "G",
+   "len": 104
+ },
+
+ {
+   "mv": "Escape to Witch Mountain",
+   "yr": "1975",
+   "rt": "G",
+   "len": 97
+ },
+
+ {
+   "mv": "Even Stevens Movie, The",
+   "yr": "2003",
+   "rt": "NR",
+   "len": 93
+ },
+
+ {
+   "mv": "Extremely Goofy Movie, An",
+   "yr": "2000",
+   "rt": "G",
+   "len": 76
+ },
+
+ {
+   "mv": "Fantasia",
+   "yr": "1940",
+   "rt": "G",
+   "len": 120
+ },
+
+ {
+   "mv": "Fantasia 2000",
+   "yr": "1999",
+   "rt": "G",
+   "len": 75
+ },
+
+ {
+   "mv": "Far Off Place, A",
+   "yr": "1993",
+   "rt": "PG",
+   "len": 100
+ },
+
+ {
+   "mv": "Fighting Prince of Donegal, The",
+   "yr": "1966",
+   "rt": "NR",
+   "len": 110
+ },
+
+ {
+   "mv": "Finding Dory",
+   "yr": "2015",
+   "rt": "",
+   "len": 0
+ },
+
+ {
+   "mv": "Finding Nemo",
+   "yr": "2003",
+   "rt": "G",
+   "len": 100
+ },
+
+ {
+   "mv": "First Kid",
+   "yr": "1996",
+   "rt": "PG",
+   "len": 101
+ },
+
+ {
+   "mv": "Flight of the Navigator",
+   "yr": "1986",
+   "rt": "PG",
+   "len": 90
+ },
+
+ {
+   "mv": "Flubber",
+   "yr": "1997",
+   "rt": "PG",
+   "len": 93
+ },
+
+ {
+   "mv": "Follow Me, Boys!",
+   "yr": "1966",
+   "rt": "NR",
+   "len": 131
+ },
+
+ {
+   "mv": "Fox and the Hound 2, The",
+   "yr": "2006",
+   "rt": "G",
+   "len": 69
+ },
+
+ {
+   "mv": "Fox and the Hound, The",
+   "yr": "1981",
+   "rt": "G",
+   "len": 83
+ },
+
+ {
+   "mv": "Frankenweenie",
+   "yr": "2012",
+   "rt": "PG",
+   "len": 87
+ },
+
+ {
+   "mv": "Freaky Friday",
+   "yr": "2003",
+   "rt": "PG",
+   "len": 97
+ },
+
+ {
+   "mv": "Frenemies",
+   "yr": "2012",
+   "rt": "NR",
+   "len": 0
+ },
+
+ {
+   "mv": "Frozen",
+   "yr": "2013",
+   "rt": "PG",
+   "len": 102
+ },
+
+ {
+   "mv": "Full-Court Miracle",
+   "yr": "2003",
+   "rt": "NR",
+   "len": 90
+ },
+
+ {
+   "mv": "Fun & Fancy Free",
+   "yr": "1947",
+   "rt": "G",
+   "len": 73
+ },
+
+ {
+   "mv": "G-Force",
+   "yr": "2009",
+   "rt": "G",
+   "len": 89
+ },
+
+ {
+   "mv": "Game Plan, The",
+   "yr": "2007",
+   "rt": "PG",
+   "len": 110
+ },
+
+ {
+   "mv": "Geek Charming",
+   "yr": "2011",
+   "rt": "G",
+   "len": 98
+ },
+
+ {
+   "mv": "Genius",
+   "yr": "1999",
+   "rt": "G",
+   "len": 82
+ },
+
+ {
+   "mv": "George of the Jungle",
+   "yr": "1997",
+   "rt": "PG",
+   "len": 92
+ },
+
+ {
+   "mv": "George of the Jungle 2",
+   "yr": "2003",
+   "rt": "PG",
+   "len": 87
+ },
+
+ {
+   "mv": "Geppetto",
+   "yr": "2000",
+   "rt": "NR",
+   "len": 89
+ },
+
+ {
+   "mv": "Get a Clue",
+   "yr": "2002",
+   "rt": "G",
+   "len": 83
+ },
+
+ {
+   "mv": "Girl vs. Monster",
+   "yr": "2012",
+   "rt": "NR",
+   "len": 89
+ },
+
+ {
+   "mv": "Glory Road",
+   "yr": "2006",
+   "rt": "PG",
+   "len": 118
+ },
+
+ {
+   "mv": "Gnome-Mobile, The",
+   "yr": "1967",
+   "rt": "NR",
+   "len": 84
+ },
+
+ {
+   "mv": "Go Figure",
+   "yr": "2005",
+   "rt": "G",
+   "len": 88
+ },
+
+ {
+   "mv": "Going to the Mat",
+   "yr": "2004",
+   "rt": "G",
+   "len": 96
+ },
+
+ {
+   "mv": "Good Dinosaur, The",
+   "yr": "2014",
+   "rt": "",
+   "len": 0
+ },
+
+ {
+   "mv": "Good Luck Charlie, It's Christmas",
+   "yr": "2011",
+   "rt": "NR",
+   "len": 90
+ },
+
+ {
+   "mv": "Goofy Movie, A",
+   "yr": "1995",
+   "rt": "G",
+   "len": 78
+ },
+
+ {
+   "mv": "Gotta Kick It Up!",
+   "yr": "2002",
+   "rt": "G",
+   "len": 78
+ },
+
+ {
+   "mv": "Great Locomotive Chase, The",
+   "yr": "1956",
+   "rt": "NR",
+   "len": 85
+ },
+
+ {
+   "mv": "Greatest Game Ever Played, The",
+   "yr": "2005",
+   "rt": "PG",
+   "len": 120
+ },
+
+ {
+   "mv": "Greyfriars Bobby",
+   "yr": "1961",
+   "rt": "NR",
+   "len": 87
+ },
+
+ {
+   "mv": "Gus",
+   "yr": "1976",
+   "rt": "G",
+   "len": 96
+ },
+
+ {
+   "mv": "H-E Double Hockey Sticks",
+   "yr": "1999",
+   "rt": "NR",
+   "len": 95
+ },
+
+ {
+   "mv": "Halloweentown",
+   "yr": "1998",
+   "rt": "G",
+   "len": 84
+ },
+
+ {
+   "mv": "Halloweentown High",
+   "yr": "2004",
+   "rt": "G",
+   "len": 83
+ },
+
+ {
+   "mv": "Halloweentown II: Kalabar's Revenge",
+   "yr": "2001",
+   "rt": "NR",
+   "len": 81
+ },
+
+ {
+   "mv": "Hannah Montana: The Movie",
+   "yr": "2009",
+   "rt": "G",
+   "len": 102
+ },
+
+ {
+   "mv": "Happiest Millionaire, The",
+   "yr": "1967",
+   "rt": "G",
+   "len": 141
+ },
+
+ {
+   "mv": "Hatching Pete",
+   "yr": "2009",
+   "rt": "G",
+   "len": 89
+ },
+
+ {
+   "mv": "Haunted Mansion, The",
+   "yr": "2003",
+   "rt": "PG",
+   "len": 88
+ },
+
+ {
+   "mv": "Heavy Weights",
+   "yr": "1995",
+   "rt": "PG",
+   "len": 100
+ },
+
+ {
+   "mv": "Herbie Fully Loaded",
+   "yr": "2005",
+   "rt": "G",
+   "len": 101
+ },
+
+ {
+   "mv": "Herbie Goes Bananas",
+   "yr": "1980",
+   "rt": "G",
+   "len": 100
+ },
+
+ {
+   "mv": "Herbie Goes to Monte Carlo",
+   "yr": "1977",
+   "rt": "G",
+   "len": 105
+ },
+
+ {
+   "mv": "Herbie Rides Again",
+   "yr": "1974",
+   "rt": "G",
+   "len": 88
+ },
+
+ {
+   "mv": "Hercules",
+   "yr": "1997",
+   "rt": "G",
+   "len": 92
+ },
+
+ {
+   "mv": "High School Musical",
+   "yr": "2006",
+   "rt": "PG",
+   "len": 93
+ },
+
+ {
+   "mv": "High School Musical 2",
+   "yr": "2007",
+   "rt": "PG",
+   "len": 104
+ },
+
+ {
+   "mv": "High School Musical 3: Senior Year",
+   "yr": "2008",
+   "rt": "PG",
+   "len": 100
+ },
+
+ {
+   "mv": "Hill, The",
+   "yr": "2013",
+   "rt": "",
+   "len": 0
+ },
+
+ {
+   "mv": "Hocus Pocus",
+   "yr": "1993",
+   "rt": "PG",
+   "len": 96
+ },
+
+ {
+   "mv": "Holes",
+   "yr": "2003",
+   "rt": "PG",
+   "len": 117
+ },
+
+ {
+   "mv": "Home on the Range",
+   "yr": "2004",
+   "rt": "PG",
+   "len": 76
+ },
+
+ {
+   "mv": "Homeward Bound II: Lost in San Francisco",
+   "yr": "1996",
+   "rt": "G",
+   "len": 89
+ },
+
+ {
+   "mv": "Homeward Bound: The Incredible Journey",
+   "yr": "1993",
+   "rt": "G",
+   "len": 84
+ },
+
+ {
+   "mv": "Honey I Blew Up the Kid",
+   "yr": "1992",
+   "rt": "PG",
+   "len": 89
+ },
+
+ {
+   "mv": "Honey, I Shrunk the Kids",
+   "yr": "1989",
+   "rt": "PG",
+   "len": 93
+ },
+
+ {
+   "mv": "Horse in the Gray Flannel Suit, The",
+   "yr": "1968",
+   "rt": "G",
+   "len": 113
+ },
+
+ {
+   "mv": "Horse Sense",
+   "yr": "1999",
+   "rt": "G",
+   "len": 92
+ },
+
+ {
+   "mv": "Hot Lead and Cold Feet",
+   "yr": "1978",
+   "rt": "G",
+   "len": 90
+ },
+
+ {
+   "mv": "Hounded",
+   "yr": "2001",
+   "rt": "G",
+   "len": 92
+ },
+
+ {
+   "mv": "Howl's Moving Castle",
+   "yr": "2004",
+   "rt": "PG",
+   "len": 119
+ },
+
+ {
+   "mv": "Hunchback of Notre Dame, The",
+   "yr": "1996",
+   "rt": "G",
+   "len": 91
+ },
+
+ {
+   "mv": "I'll Be Home for Christmas",
+   "yr": "1998",
+   "rt": "PG",
+   "len": 86
+ },
+
+ {
+   "mv": "Ice Princess",
+   "yr": "2005",
+   "rt": "G",
+   "len": 98
+ },
+
+ {
+   "mv": "In Search of Castaways",
+   "yr": "1962",
+   "rt": "NR",
+   "len": 98
+ },
+
+ {
+   "mv": "Incredible Journey, The",
+   "yr": "1963",
+   "rt": "G",
+   "len": 80
+ },
+
+ {
+   "mv": "Incredibles, The",
+   "yr": "2004",
+   "rt": "PG",
+   "len": 115
+ },
+
+ {
+   "mv": "Inside Out",
+   "yr": "2015",
+   "rt": "",
+   "len": 0
+ },
+
+ {
+   "mv": "Inspector Gadget",
+   "yr": "1999",
+   "rt": "PG",
+   "len": 78
+ },
+
+ {
+   "mv": "Inspector Gadget 2",
+   "yr": "2003",
+   "rt": "G",
+   "len": 89
+ },
+
+ {
+   "mv": "Into The Woods",
+   "yr": "2014",
+   "rt": "",
+   "len": 0
+ },
+
+ {
+   "mv": "Invincible",
+   "yr": "2006",
+   "rt": "PG",
+   "len": 105
+ },
+
+ {
+   "mv": "Iron Will",
+   "yr": "1994",
+   "rt": "PG",
+   "len": 108
+ },
+
+ {
+   "mv": "Island at the Top of the World, The",
+   "yr": "1974",
+   "rt": "NR",
+   "len": 93
+ },
+
+ {
+   "mv": "James and the Giant Peach",
+   "yr": "1996",
+   "rt": "PG",
+   "len": 79
+ },
+
+ {
+   "mv": "Jennie Project, The",
+   "yr": "2001",
+   "rt": "G",
+   "len": 76
+ },
+
+ {
+   "mv": "Jett Jackson: The Movie",
+   "yr": "2001",
+   "rt": "G",
+   "len": 100
+ },
+
+ {
+   "mv": "John Carter",
+   "yr": "2012",
+   "rt": "PG-13",
+   "len": 132
+ },
+
+ {
+   "mv": "Johnny Kapahala: Back on Board",
+   "yr": "2007",
+   "rt": "G",
+   "len": 92
+ },
+
+ {
+   "mv": "Johnny Tremain",
+   "yr": "1957",
+   "rt": "NR",
+   "len": 80
+ },
+
+ {
+   "mv": "Johnny Tsunami",
+   "yr": "1999",
+   "rt": "G",
+   "len": 88
+ },
+
+ {
+   "mv": "Journey of Natty Gann, The",
+   "yr": "1985",
+   "rt": "PG",
+   "len": 101
+ },
+
+ {
+   "mv": "Jump In!",
+   "yr": "2007",
+   "rt": "G",
+   "len": 85
+ },
+
+ {
+   "mv": "Jumping Ship",
+   "yr": "2001",
+   "rt": "G",
+   "len": 93
+ },
+
+ {
+   "mv": "Jungle 2 Jungle",
+   "yr": "1997",
+   "rt": "PG",
+   "len": 105
+ },
+
+ {
+   "mv": "Jungle Book 2, The",
+   "yr": "2003",
+   "rt": "G",
+   "len": 72
+ },
+
+ {
+   "mv": "Jungle Book, The",
+   "yr": "1967",
+   "rt": "G",
+   "len": 78
+ },
+
+ {
+   "mv": "Jungle Cruise",
+   "yr": "2014",
+   "rt": "",
+   "len": 0
+ },
+
+ {
+   "mv": "Kid in King Arthur's Court , A",
+   "yr": "1995",
+   "rt": "PG",
+   "len": 89
+ },
+
+ {
+   "mv": "Kid, The",
+   "yr": "2000",
+   "rt": "PG",
+   "len": 104
+ },
+
+ {
+   "mv": "Kidnapped",
+   "yr": "1960",
+   "rt": "PG",
+   "len": 95
+ },
+
+ {
+   "mv": "Kim Possible Movie: So the Drama",
+   "yr": "2005",
+   "rt": "G",
+   "len": 81
+ },
+
+ {
+   "mv": "Kim Possible: A Sitch in Time",
+   "yr": "2003",
+   "rt": "G",
+   "len": 66
+ },
+
+ {
+   "mv": "King of the Grizzlies",
+   "yr": "1970",
+   "rt": "G",
+   "len": 93
+ },
+
+ {
+   "mv": "Knight In Camelot, A",
+   "yr": "1998",
+   "rt": "NR",
+   "len": 90
+ },
+
+ {
+   "mv": "Kronk's New Groove",
+   "yr": "2005",
+   "rt": "G",
+   "len": 72
+ },
+
+ {
+   "mv": "Lady and the Tramp",
+   "yr": "1955",
+   "rt": "G",
+   "len": 76
+ },
+
+ {
+   "mv": "Lady and the Tramp II: Scamp's Adventure",
+   "yr": "2001",
+   "rt": "G",
+   "len": 69
+ },
+
+ {
+   "mv": "Last Flight of Noah's Ark. The",
+   "yr": "1980",
+   "rt": "G",
+   "len": 97
+ },
+
+ {
+   "mv": "Legend of Lobo, The",
+   "yr": "1962",
+   "rt": "G",
+   "len": 69
+ },
+
+ {
+   "mv": "Lemonade Mouth",
+   "yr": "2011",
+   "rt": "G",
+   "len": 107
+ },
+
+ {
+   "mv": "Let It Shine",
+   "yr": "2012",
+   "rt": "NR",
+   "len": 0
+ },
+
+ {
+   "mv": "Life is Ruff",
+   "yr": "2005",
+   "rt": "G",
+   "len": 84
+ },
+
+ {
+   "mv": "Light in the Forest, The",
+   "yr": "1958",
+   "rt": "NR",
+   "len": 83
+ },
+
+ {
+   "mv": "Lilo & Stitch",
+   "yr": "2002",
+   "rt": "PG",
+   "len": 85
+ },
+
+ {
+   "mv": "Lilo and Stitch 2: Stich Has a Glitch",
+   "yr": "2005",
+   "rt": "PG",
+   "len": 68
+ },
+
+ {
+   "mv": "Lion King 1 1/2, The",
+   "yr": "2004",
+   "rt": "G",
+   "len": 77
+ },
+
+ {
+   "mv": "Lion King II: Simbas Pride, The",
+   "yr": "1998",
+   "rt": "G",
+   "len": 81
+ },
+
+ {
+   "mv": "Lion King, The",
+   "yr": "1994",
+   "rt": "G",
+   "len": 89
+ },
+
+ {
+   "mv": "Little Mermaid II, The: Return to the Sea",
+   "yr": "2000",
+   "rt": "G",
+   "len": 72
+ },
+
+ {
+   "mv": "Little Mermaid III - Ariel's Beginning",
+   "yr": "2008",
+   "rt": "NR",
+   "len": 77
+ },
+
+ {
+   "mv": "Little Mermaid, The",
+   "yr": "1989",
+   "rt": "G",
+   "len": 83
+ },
+
+ {
+   "mv": "Littlest Outlaw, The",
+   "yr": "1955",
+   "rt": "NR",
+   "len": 73
+ },
+
+ {
+   "mv": "Lizzie McGuire Movie",
+   "yr": "2003",
+   "rt": "PG",
+   "len": 94
+ },
+
+ {
+   "mv": "Lone Ranger",
+   "yr": "2013",
+   "rt": "PG-13",
+   "len": 149
+ },
+
+ {
+   "mv": "Love Bug, The",
+   "yr": "1968",
+   "rt": "G",
+   "len": 107
+ },
+
+ {
+   "mv": "Love Leads the Way",
+   "yr": "1984",
+   "rt": "NR",
+   "len": 99
+ },
+
+ {
+   "mv": "Lt. Robin Crusoe, U.S.N.",
+   "yr": "1966",
+   "rt": "NR",
+   "len": 95
+ },
+
+ {
+   "mv": "Luck of the Irish",
+   "yr": "2001",
+   "rt": "G",
+   "len": 86
+ },
+
+ {
+   "mv": "Magic Kingdom",
+   "yr": "2013",
+   "rt": "",
+   "len": 0
+ },
+
+ {
+   "mv": "Mail to the Chief",
+   "yr": "2000",
+   "rt": "NR",
+   "len": 89
+ },
+
+ {
+   "mv": "Make Mine Music",
+   "yr": "1946",
+   "rt": "NR",
+   "len": 74
+ },
+
+ {
+   "mv": "Maleficent",
+   "yr": "2014",
+   "rt": "",
+   "len": 0
+ },
+
+ {
+   "mv": "Man of the House",
+   "yr": "1995",
+   "rt": "PG",
+   "len": 96
+ },
+
+ {
+   "mv": "Many Adventures of Winnie the Pooh, The",
+   "yr": "1977",
+   "rt": "G",
+   "len": 74
+ },
+
+ {
+   "mv": "Mars Needs Moms",
+   "yr": "2011",
+   "rt": "PG",
+   "len": 88
+ },
+
+ {
+   "mv": "Mary Poppins",
+   "yr": "1964",
+   "rt": "G",
+   "len": 139
+ },
+
+ {
+   "mv": "Max Keeble's Big Move",
+   "yr": "2001",
+   "rt": "PG",
+   "len": 86
+ },
+
+ {
+   "mv": "McFarland",
+   "yr": "2013",
+   "rt": "",
+   "len": 0
+ },
+
+ {
+   "mv": "Meet the Deedles",
+   "yr": "1998",
+   "rt": "PG",
+   "len": 93
+ },
+
+ {
+   "mv": "Meet the Robinsons",
+   "yr": "2007",
+   "rt": "G",
+   "len": 102
+ },
+
+ {
+   "mv": "Melody Time",
+   "yr": "1948",
+   "rt": "NR",
+   "len": 75
+ },
+
+ {
+   "mv": "Mickey's Magical Christmas: Snowed in at the House of Mouse",
+   "yr": "2001",
+   "rt": "G",
+   "len": 65
+ },
+
+ {
+   "mv": "Mickey's Once Upon a Christmas",
+   "yr": "1999",
+   "rt": "G",
+   "len": 66
+ },
+
+ {
+   "mv": "Mickey's Twice Upon a Christmas",
+   "yr": "2004",
+   "rt": "G",
+   "len": 68
+ },
+
+ {
+   "mv": "Midnight Madness",
+   "yr": "1980",
+   "rt": "PG",
+   "len": 112
+ },
+
+ {
+   "mv": "Mighty Ducks, The",
+   "yr": "1992",
+   "rt": "PG",
+   "len": 100
+ },
+
+ {
+   "mv": "Mighty Joe Young",
+   "yr": "1998",
+   "rt": "PG",
+   "len": 114
+ },
+
+ {
+   "mv": "Million Dollar Arm",
+   "yr": "2014",
+   "rt": "",
+   "len": 0
+ },
+
+ {
+   "mv": "Million Dollar Duck, The",
+   "yr": "1971",
+   "rt": "G",
+   "len": 89
+ },
+
+ {
+   "mv": "Minutemen",
+   "yr": "2008",
+   "rt": "G",
+   "len": 98
+ },
+
+ {
+   "mv": "Miracle",
+   "yr": "2004",
+   "rt": "PG",
+   "len": 135
+ },
+
+ {
+   "mv": "Miracle in Lane 2",
+   "yr": "2000",
+   "rt": "G",
+   "len": 120
+ },
+
+ {
+   "mv": "Miracle of the White Stallions",
+   "yr": "1963",
+   "rt": "G",
+   "len": 93
+ },
+
+ {
+   "mv": "Misadventures of Merlin Jones, The",
+   "yr": "1964",
+   "rt": "NR",
+   "len": 91
+ },
+
+ {
+   "mv": "Mom's Got A Date With A Vampire",
+   "yr": "2000",
+   "rt": "PG",
+   "len": 85
+ },
+
+ {
+   "mv": "Monkey's Uncle, The",
+   "yr": "1965",
+   "rt": "NR",
+   "len": 87
+ },
+
+ {
+   "mv": "Monkeys, Go Home!",
+   "yr": "1967",
+   "rt": "NR",
+   "len": 101
+ },
+
+ {
+   "mv": "Monsters University",
+   "yr": "2013",
+   "rt": "",
+   "len": 0
+ },
+
+ {
+   "mv": "Monsters, Inc",
+   "yr": "2001",
+   "rt": "G",
+   "len": 92
+ },
+
+ {
+   "mv": "Moon Pilot",
+   "yr": "1962",
+   "rt": "NR",
+   "len": 98
+ },
+
+ {
+   "mv": "Moon Spinners, The",
+   "yr": "1964",
+   "rt": "G",
+   "len": 118
+ },
+
+ {
+   "mv": "Motocrossed",
+   "yr": "2001",
+   "rt": "NR",
+   "len": 88
+ },
+
+ {
+   "mv": "Mr. Magoo",
+   "yr": "1997",
+   "rt": "PG",
+   "len": 87
+ },
+
+ {
+   "mv": "Mulan",
+   "yr": "1998",
+   "rt": "G",
+   "len": 88
+ },
+
+ {
+   "mv": "Mulan II",
+   "yr": "2004",
+   "rt": "G",
+   "len": 79
+ },
+
+ {
+   "mv": "Muppet Christmas Carol, The",
+   "yr": "1992",
+   "rt": "G",
+   "len": 85
+ },
+
+ {
+   "mv": "Muppet Movie, The",
+   "yr": "1979",
+   "rt": "G",
+   "len": 95
+ },
+
+ {
+   "mv": "Muppet Treasure Island",
+   "yr": "1996",
+   "rt": "G",
+   "len": 99
+ },
+
+ {
+   "mv": "Muppets, The",
+   "yr": "2011",
+   "rt": "PG",
+   "len": 103
+ },
+
+ {
+   "mv": "Muppets: Most Wanted",
+   "yr": "2014",
+   "rt": "",
+   "len": 0
+ },
+
+ {
+   "mv": "Mustang",
+   "yr": "1973",
+   "rt": "",
+   "len": 0
+ },
+
+ {
+   "mv": "My Favorite Martian",
+   "yr": "1999",
+   "rt": "PG",
+   "len": 93
+ },
+
+ {
+   "mv": "My Friends Tigger and Pooh: Super Sleuth Christmas",
+   "yr": "2007",
+   "rt": "NR",
+   "len": 44
+ },
+
+ {
+   "mv": "Napoleon and Samantha",
+   "yr": "1972",
+   "rt": "G",
+   "len": 92
+ },
+
+ {
+   "mv": "National Treasure",
+   "yr": "2004",
+   "rt": "PG",
+   "len": 131
+ },
+
+ {
+   "mv": "National Treasure 3",
+   "yr": "2014",
+   "rt": "",
+   "len": 0
+ },
+
+ {
+   "mv": "National Treasure: Book of Secrets",
+   "yr": "2007",
+   "rt": "PG",
+   "len": 124
+ },
+
+ {
+   "mv": "Never A Dull Moment",
+   "yr": "1968",
+   "rt": "G",
+   "len": 99
+ },
+
+ {
+   "mv": "Never Cry Wolf",
+   "yr": "1983",
+   "rt": "PG",
+   "len": 91
+ },
+
+ {
+   "mv": "Newsies",
+   "yr": "1992",
+   "rt": "PG",
+   "len": 121
+ },
+
+ {
+   "mv": "Night Crossing",
+   "yr": "1982",
+   "rt": "PG",
+   "len": 107
+ },
+
+ {
+   "mv": "Nightmare Before Christmas, The",
+   "yr": "1993",
+   "rt": "PG",
+   "len": 76
+ },
+
+ {
+   "mv": "No Deposit, No Return",
+   "yr": "1976",
+   "rt": "G",
+   "len": 112
+ },
+
+ {
+   "mv": "North Avenue Irregulars, The",
+   "yr": "1979",
+   "rt": "G",
+   "len": 100
+ },
+
+ {
+   "mv": "Northern Lights",
+   "yr": "1997",
+   "rt": "NR",
+   "len": 111
+ },
+
+ {
+   "mv": "Now You See Him, Now You Don't",
+   "yr": "1972",
+   "rt": "G",
+   "len": 88
+ },
+
+ {
+   "mv": "Now You See It",
+   "yr": "2005",
+   "rt": "G",
+   "len": 83
+ },
+
+ {
+   "mv": "Odd Life of Timothy Green, The",
+   "yr": "2012",
+   "rt": "PG",
+   "len": 105
+ },
+
+ {
+   "mv": "Old Dogs",
+   "yr": "2009",
+   "rt": "PG",
+   "len": 88
+ },
+
+ {
+   "mv": "Old Yeller",
+   "yr": "1957",
+   "rt": "G",
+   "len": 83
+ },
+
+ {
+   "mv": "Oliver and Company",
+   "yr": "1988",
+   "rt": "g",
+   "len": 74
+ },
+
+ {
+   "mv": "Once Upon a Mattress",
+   "yr": "2005",
+   "rt": "PG",
+   "len": 90
+ },
+
+ {
+   "mv": "Once Upon A Warrior (Anaganaga O Dheerudu)",
+   "yr": "2011",
+   "rt": "PG-13",
+   "len": 133
+ },
+
+ {
+   "mv": "One and Only, Genuine, Original Family Band, The",
+   "yr": "1968",
+   "rt": "G",
+   "len": 110
+ },
+
+ {
+   "mv": "One Little Indian",
+   "yr": "1973",
+   "rt": "G",
+   "len": 90
+ },
+
+ {
+   "mv": "One Magic Christmas",
+   "yr": "1985",
+   "rt": "G",
+   "len": 88
+ },
+
+ {
+   "mv": "One of Our Dinosaurs is Missing",
+   "yr": "1975",
+   "rt": "G",
+   "len": 100
+ },
+
+ {
+   "mv": "Operation Dumbo Drop",
+   "yr": "1995",
+   "rt": "PG",
+   "len": 107
+ },
+
+ {
+   "mv": "Other Me, The",
+   "yr": "2000",
+   "rt": "G",
+   "len": 90
+ },
+
+ {
+   "mv": "Other Side of Heaven, The",
+   "yr": "2001",
+   "rt": "PG",
+   "len": 113
+ },
+
+ {
+   "mv": "Oz: The Great and Powerful",
+   "yr": "2013",
+   "rt": "PG",
+   "len": 130
+ },
+
+ {
+   "mv": "Pacifier, The",
+   "yr": "2005",
+   "rt": "PG",
+   "len": 95
+ },
+
+ {
+   "mv": "Parent Trap, The",
+   "yr": "1961",
+   "rt": "NR",
+   "len": 129
+ },
+
+ {
+   "mv": "Parent Trap, The (new)",
+   "yr": "1998",
+   "rt": "PG",
+   "len": 127
+ },
+
+ {
+   "mv": "Pete's Dragon",
+   "yr": "1977",
+   "rt": "G",
+   "len": 128
+ },
+
+ {
+   "mv": "Peter Pan",
+   "yr": "1953",
+   "rt": "NR",
+   "len": 77
+ },
+
+ {
+   "mv": "Phantom of the Megaplex",
+   "yr": "2000",
+   "rt": "G",
+   "len": 89
+ },
+
+ {
+   "mv": "Phineas & Ferb: Across the 2nd Dimension",
+   "yr": "2011",
+   "rt": "G",
+   "len": 78
+ },
+
+ {
+   "mv": "Phineas and Ferb Movie",
+   "yr": "2013",
+   "rt": "",
+   "len": 0
+ },
+
+ {
+   "mv": "Piglet's Big Movie",
+   "yr": "2003",
+   "rt": "G",
+   "len": 75
+ },
+
+ {
+   "mv": "Pinocchio",
+   "yr": "1940",
+   "rt": "G",
+   "len": 88
+ },
+
+ {
+   "mv": "Pirate Fairy, The",
+   "yr": "2014",
+   "rt": "G",
+   "len": 90
+ },
+
+ {
+   "mv": "Pirates of the Caribbean: At World's End",
+   "yr": "2007",
+   "rt": "PG-13",
+   "len": 148
+ },
+
+ {
+   "mv": "Pirates of the Caribbean: Dead Man's Chest",
+   "yr": "2006",
+   "rt": "PG-13",
+   "len": 150
+ },
+
+ {
+   "mv": "Pirates of the Caribbean: Dead Men Tell No Tales",
+   "yr": "2016",
+   "rt": "",
+   "len": 0
+ },
+
+ {
+   "mv": "Pirates of the Caribbean: On Stranger Tides",
+   "yr": "2011",
+   "rt": "PG-13",
+   "len": 136
+ },
+
+ {
+   "mv": "Pirates of the Caribbean: The Curse of the Black Pearl",
+   "yr": "2003",
+   "rt": "PG-13",
+   "len": 143
+ },
+
+ {
+   "mv": "Pixel Perfect",
+   "yr": "2004",
+   "rt": "G",
+   "len": 85
+ },
+
+ {
+   "mv": "Planes",
+   "yr": "2013",
+   "rt": "PG",
+   "len": 91
+ },
+
+ {
+   "mv": "Planes: Fire Rescue",
+   "yr": "2014",
+   "rt": "NR",
+   "len": 0
+ },
+
+ {
+   "mv": "Pocahontas",
+   "yr": "1995",
+   "rt": "G",
+   "len": 81
+ },
+
+ {
+   "mv": "Pocahontas II: Journey to a New World",
+   "yr": "1998",
+   "rt": "G",
+   "len": 72
+ },
+
+ {
+   "mv": "Pollyanna",
+   "yr": "1960",
+   "rt": "G",
+   "len": 134
+ },
+
+ {
+   "mv": "Ponyo",
+   "yr": "2009",
+   "rt": "G",
+   "len": 103
+ },
+
+ {
+   "mv": "Poof Point, The",
+   "yr": "2001",
+   "rt": "G",
+   "len": 90
+ },
+
+ {
+   "mv": "Pooh's Heffalump Halloween Movie",
+   "yr": "2005",
+   "rt": "G",
+   "len": 67
+ },
+
+ {
+   "mv": "Pooh's Heffalump Movie",
+   "yr": "2005",
+   "rt": "G",
+   "len": 68
+ },
+
+ {
+   "mv": "Popeye",
+   "yr": "1980",
+   "rt": "PG",
+   "len": 114
+ },
+
+ {
+   "mv": "Prince of Persia : Sands of Time",
+   "yr": "2010",
+   "rt": "PG",
+   "len": 116
+ },
+
+ {
+   "mv": "Princess and the Frog, The",
+   "yr": "2009",
+   "rt": "G",
+   "len": 97
+ },
+
+ {
+   "mv": "Princess Diaries 2: Royal Engagement",
+   "yr": "2004",
+   "rt": "G",
+   "len": 113
+ },
+
+ {
+   "mv": "Princess Diaries, The",
+   "yr": "2001",
+   "rt": "G",
+   "len": 115
+ },
+
+ {
+   "mv": "Princess Protection Program",
+   "yr": "2009",
+   "rt": "G",
+   "len": 89
+ },
+
+ {
+   "mv": "Prom",
+   "yr": "2011",
+   "rt": "PG",
+   "len": 104
+ },
+
+ {
+   "mv": "Proud Family Movie, The",
+   "yr": "2005",
+   "rt": "G",
+   "len": 90
+ },
+
+ {
+   "mv": "Quints",
+   "yr": "2000",
+   "rt": "G",
+   "len": 83
+ },
+
+ {
+   "mv": "Race to Witch Mountain",
+   "yr": "2009",
+   "rt": "PG",
+   "len": 98
+ },
+
+ {
+   "mv": "Radio Rebel",
+   "yr": "2012",
+   "rt": "NR",
+   "len": 89
+ },
+
+ {
+   "mv": "Rascal",
+   "yr": "1969",
+   "rt": "G",
+   "len": 85
+ },
+
+ {
+   "mv": "Ratatouille",
+   "yr": "2007",
+   "rt": "G",
+   "len": 110
+ },
+
+ {
+   "mv": "Read It And Weep",
+   "yr": "2006",
+   "rt": "G",
+   "len": 84
+ },
+
+ {
+   "mv": "Ready to Run",
+   "yr": "2000",
+   "rt": "G",
+   "len": 96
+ },
+
+ {
+   "mv": "Recess: School's Out",
+   "yr": "2001",
+   "rt": "G",
+   "len": 82
+ },
+
+ {
+   "mv": "Reluctant Dragon, The",
+   "yr": "1941",
+   "rt": "NR",
+   "len": 74
+ },
+
+ {
+   "mv": "Remember the Titans",
+   "yr": "2000",
+   "rt": "PG",
+   "len": 113
+ },
+
+ {
+   "mv": "Rescuers Down Under, The",
+   "yr": "1990",
+   "rt": "G",
+   "len": 77
+ },
+
+ {
+   "mv": "Rescuers, The",
+   "yr": "1977",
+   "rt": "G",
+   "len": 78
+ },
+
+ {
+   "mv": "Return from Witch Mountain",
+   "yr": "1978",
+   "rt": "G",
+   "len": 95
+ },
+
+ {
+   "mv": "Return to Halloweentown",
+   "yr": "2006",
+   "rt": "NR",
+   "len": 88
+ },
+
+ {
+   "mv": "Return to Never Land",
+   "yr": "2002",
+   "rt": "G",
+   "len": 72
+ },
+
+ {
+   "mv": "Return to Oz",
+   "yr": "1985",
+   "rt": "PG",
+   "len": 113
+ },
+
+ {
+   "mv": "Return to Snowy River",
+   "yr": "1988",
+   "rt": "PG",
+   "len": 110
+ },
+
+ {
+   "mv": "Ride A Wild Pony",
+   "yr": "1975",
+   "rt": "G",
+   "len": 91
+ },
+
+ {
+   "mv": "Right On Track",
+   "yr": "2003",
+   "rt": "G",
+   "len": 89
+ },
+
+ {
+   "mv": "Ring of Endless Light, A",
+   "yr": "2002",
+   "rt": "G",
+   "len": 88
+ },
+
+ {
+   "mv": "Rip Girls",
+   "yr": "2000",
+   "rt": "G",
+   "len": 87
+ },
+
+ {
+   "mv": "Rob Roy: The Highland Rogue",
+   "yr": "1953",
+   "rt": "NR",
+   "len": 91
+ },
+
+ {
+   "mv": "Robin Hood",
+   "yr": "1973",
+   "rt": "G",
+   "len": 83
+ },
+
+ {
+   "mv": "Rocket Man",
+   "yr": "1997",
+   "rt": "PG",
+   "len": 95
+ },
+
+ {
+   "mv": "Rocketeer",
+   "yr": "1991",
+   "rt": "PG",
+   "len": 108
+ },
+
+ {
+   "mv": "Rookie, The",
+   "yr": "2002",
+   "rt": "G",
+   "len": 127
+ },
+
+ {
+   "mv": "Rudyard Kipling's The Jungle Book",
+   "yr": "1994",
+   "rt": "PG",
+   "len": 111
+ },
+
+ {
+   "mv": "Run, Cougar, Run",
+   "yr": "1972",
+   "rt": "G",
+   "len": 87
+ },
+
+ {
+   "mv": "Saludos Amigos",
+   "yr": "1943",
+   "rt": "NR",
+   "len": 75
+ },
+
+ {
+   "mv": "Santa Buddies",
+   "yr": "2009",
+   "rt": "G",
+   "len": 88
+ },
+
+ {
+   "mv": "Santa Clause 2: The Mrs. Clause",
+   "yr": "2002",
+   "rt": "G",
+   "len": 105
+ },
+
+ {
+   "mv": "Santa Clause 3: The Escape Clause",
+   "yr": "2006",
+   "rt": "G",
+   "len": 98
+ },
+
+ {
+   "mv": "Santa Clause, The",
+   "yr": "1994",
+   "rt": "PG",
+   "len": 97
+ },
+
+ {
+   "mv": "Santa Paws 2: The Santa Pups",
+   "yr": "2012",
+   "rt": "G",
+   "len": 88
+ },
+
+ {
+   "mv": "Savage Sam",
+   "yr": "1963",
+   "rt": "NR",
+   "len": 103
+ },
+
+ {
+   "mv": "Saving Mr. Banks",
+   "yr": "2013",
+   "rt": "PG-13",
+   "len": 125
+ },
+
+ {
+   "mv": "Scandalous John",
+   "yr": "1971",
+   "rt": "NR",
+   "len": 113
+ },
+
+ {
+   "mv": "Scream Team, The",
+   "yr": "2002",
+   "rt": "G",
+   "len": 100
+ },
+
+ {
+   "mv": "Search for Santa Paws, The",
+   "yr": "2010",
+   "rt": "G",
+   "len": 88
+ },
+
+ {
+   "mv": "Secret of the Magic Gourd, The",
+   "yr": "2007",
+   "rt": "G",
+   "len": 85
+ },
+
+ {
+   "mv": "Secret World of Arrietty, The",
+   "yr": "2012",
+   "rt": "G",
+   "len": 94
+ },
+
+ {
+   "mv": "Secretariat",
+   "yr": "2010",
+   "rt": "PG",
+   "len": 123
+ },
+
+ {
+   "mv": "Shaggy D.A., The",
+   "yr": "1976",
+   "rt": "G",
+   "len": 91
+ },
+
+ {
+   "mv": "Shaggy Dog, The",
+   "yr": "2006",
+   "rt": "PG",
+   "len": 98
+ },
+
+ {
+   "mv": "Sharpay's Fabulous Adventure",
+   "yr": "2011",
+   "rt": "G",
+   "len": 89
+ },
+
+ {
+   "mv": "Shipwrecked",
+   "yr": "1990",
+   "rt": "PG",
+   "len": 92
+ },
+
+ {
+   "mv": "Sign of Zorro, The",
+   "yr": "1960",
+   "rt": "NR",
+   "len": 91
+ },
+
+ {
+   "mv": "Sky High",
+   "yr": "2005",
+   "rt": "PG",
+   "len": 100
+ },
+
+ {
+   "mv": "Sleeping Beauty",
+   "yr": "1959",
+   "rt": "G",
+   "len": 75
+ },
+
+ {
+   "mv": "Smart House",
+   "yr": "1999",
+   "rt": "G",
+   "len": 90
+ },
+
+ {
+   "mv": "Smith!",
+   "yr": "1969",
+   "rt": "G",
+   "len": 112
+ },
+
+ {
+   "mv": "Smoke",
+   "yr": "1970",
+   "rt": "NR",
+   "len": 80
+ },
+
+ {
+   "mv": "Snow Buddies",
+   "yr": "2008",
+   "rt": "G",
+   "len": 87
+ },
+
+ {
+   "mv": "Snow Dogs",
+   "yr": "2002",
+   "rt": "PG",
+   "len": 95
+ },
+
+ {
+   "mv": "Snow White and the Seven Dwarfs",
+   "yr": "1937",
+   "rt": "NR",
+   "len": 83
+ },
+
+ {
+   "mv": "Snowball Express",
+   "yr": "1972",
+   "rt": "NR",
+   "len": 93
+ },
+
+ {
+   "mv": "So Dear to My Heart",
+   "yr": "1948",
+   "rt": "G",
+   "len": 82
+ },
+
+ {
+   "mv": "Sofia the First: Once Upon a Princess",
+   "yr": "2012",
+   "rt": "G",
+   "len": 90
+ },
+
+ {
+   "mv": "Something Wicked This Way Comes",
+   "yr": "1983",
+   "rt": "PG",
+   "len": 95
+ },
+
+ {
+   "mv": "Son of Flubber",
+   "yr": "1963",
+   "rt": "",
+   "len": 100
+ },
+
+ {
+   "mv": "Song of the South",
+   "yr": "1946",
+   "rt": "G",
+   "len": 94
+ },
+
+ {
+   "mv": "Sorcerers Apprentice",
+   "yr": "2010",
+   "rt": "PG",
+   "len": 109
+ },
+
+ {
+   "mv": "Space Buddies",
+   "yr": "2009",
+   "rt": "G",
+   "len": 84
+ },
+
+ {
+   "mv": "Spirited Away",
+   "yr": "2001",
+   "rt": "PG",
+   "len": 125
+ },
+
+ {
+   "mv": "Spooky Buddies",
+   "yr": "2011",
+   "rt": "G",
+   "len": 88
+ },
+
+ {
+   "mv": "Squanto: A Warrior's Tale",
+   "yr": "1994",
+   "rt": "PG",
+   "len": 102
+ },
+
+ {
+   "mv": "Star Struck",
+   "yr": "2010",
+   "rt": "NR",
+   "len": 90
+ },
+
+ {
+   "mv": "Stepsister From Planet Weird",
+   "yr": "2000",
+   "rt": "G",
+   "len": 85
+ },
+
+ {
+   "mv": "Story of Robin Hood and His Merrie Men, The",
+   "yr": "1952",
+   "rt": "PG",
+   "len": 84
+ },
+
+ {
+   "mv": "Straight Story, The",
+   "yr": "1999",
+   "rt": "G",
+   "len": 112
+ },
+
+ {
+   "mv": "Strongest Man in the World, The",
+   "yr": "1975",
+   "rt": "G",
+   "len": 92
+ },
+
+ {
+   "mv": "Stuck in the Suburbs",
+   "yr": "2004",
+   "rt": "G",
+   "len": 82
+ },
+
+ {
+   "mv": "Suite Life Movie, The",
+   "yr": "2011",
+   "rt": "NR",
+   "len": 79
+ },
+
+ {
+   "mv": "Summer Magic",
+   "yr": "1963",
+   "rt": "G",
+   "len": 109
+ },
+
+ {
+   "mv": "Super Buddies",
+   "yr": "2013",
+   "rt": "G",
+   "len": 130
+ },
+
+ {
+   "mv": "Superdad",
+   "yr": "1973",
+   "rt": "G",
+   "len": 96
+ },
+
+ {
+   "mv": "Swiss Family Robinson",
+   "yr": "1960",
+   "rt": "G",
+   "len": 126
+ },
+
+ {
+   "mv": "Sword and the Rose, The",
+   "yr": "1953",
+   "rt": "NR",
+   "len": 92
+ },
+
+ {
+   "mv": "Sword in the Stone, The",
+   "yr": "1963",
+   "rt": "G",
+   "len": 79
+ },
+
+ {
+   "mv": "Tale of Two Critters, A",
+   "yr": "1977",
+   "rt": "G",
+   "len": 48
+ },
+
+ {
+   "mv": "Tall Tale",
+   "yr": "1995",
+   "rt": "PG",
+   "len": 98
+ },
+
+ {
+   "mv": "Tangled",
+   "yr": "2010",
+   "rt": "PG",
+   "len": 100
+ },
+
+ {
+   "mv": "Tarzan",
+   "yr": "1999",
+   "rt": "G",
+   "len": 88
+ },
+
+ {
+   "mv": "Teacher's Pet",
+   "yr": "2004",
+   "rt": "PG",
+   "len": 74
+ },
+
+ {
+   "mv": "Teen Beach Movie",
+   "yr": "2013",
+   "rt": "PG",
+   "len": 110
+ },
+
+ {
+   "mv": "Ten Who Dared",
+   "yr": "1960",
+   "rt": "NR",
+   "len": 92
+ },
+
+ {
+   "mv": "Tex",
+   "yr": "1982",
+   "rt": "PG",
+   "len": 103
+ },
+
+ {
+   "mv": "Third Man on the Mountain",
+   "yr": "1959",
+   "rt": "G",
+   "len": 105
+ },
+
+ {
+   "mv": "Thirteenth Year, The",
+   "yr": "1999",
+   "rt": "G",
+   "len": 95
+ },
+
+ {
+   "mv": "Those Calloways",
+   "yr": "1965",
+   "rt": "NR",
+   "len": 126
+ },
+
+ {
+   "mv": "Three Caballeros, The",
+   "yr": "1944",
+   "rt": "G",
+   "len": 69
+ },
+
+ {
+   "mv": "Three Lives of Thomasina, The",
+   "yr": "1964",
+   "rt": "NR",
+   "len": 97
+ },
+
+ {
+   "mv": "Three Musketeers, The",
+   "yr": "1993",
+   "rt": "PG",
+   "len": 105
+ },
+
+ {
+   "mv": "Three Musketeers, The (Animated)",
+   "yr": "2004",
+   "rt": "G",
+   "len": 68
+ },
+
+ {
+   "mv": "Tiger Cruise",
+   "yr": "2004",
+   "rt": "PG",
+   "len": 88
+ },
+
+ {
+   "mv": "Tiger Town",
+   "yr": "1983",
+   "rt": "NR",
+   "len": 95
+ },
+
+ {
+   "mv": "Tiger Walks, A",
+   "yr": "1964",
+   "rt": "NR",
+   "len": 91
+ },
+
+ {
+   "mv": "Tigger & Pooh and a Musical Too",
+   "yr": "2009",
+   "rt": "NR",
+   "len": 60
+ },
+
+ {
+   "mv": "Tinker Bell",
+   "yr": "2008",
+   "rt": "G",
+   "len": 70
+ },
+
+ {
+   "mv": "Tinker Bell and the Great Fairy Rescue",
+   "yr": "2010",
+   "rt": "G",
+   "len": 76
+ },
+
+ {
+   "mv": "Tinker Bell and the Lost Treasure",
+   "yr": "2009",
+   "rt": "G",
+   "len": 81
+ },
+
+ {
+   "mv": "Tinker Bell: Secret of the Wings",
+   "yr": "2012",
+   "rt": "G",
+   "len": 0
+ },
+
+ {
+   "mv": "Toby Tyler",
+   "yr": "1960",
+   "rt": "G",
+   "len": 96
+ },
+
+ {
+   "mv": "Tom and Huck",
+   "yr": "1995",
+   "rt": "PG",
+   "len": 97
+ },
+
+ {
+   "mv": "Tomorrowland",
+   "yr": "2014",
+   "rt": "",
+   "len": 0
+ },
+
+ {
+   "mv": "Tonka",
+   "yr": "1958",
+   "rt": "NR",
+   "len": 98
+ },
+
+ {
+   "mv": "Tower of Terror",
+   "yr": "1997",
+   "rt": "UR",
+   "len": 89
+ },
+
+ {
+   "mv": "Toy Story",
+   "yr": "1995",
+   "rt": "G",
+   "len": 85
+ },
+
+ {
+   "mv": "Toy Story 2",
+   "yr": "1999",
+   "rt": "G",
+   "len": 92
+ },
+
+ {
+   "mv": "Toy Story 3",
+   "yr": "2010",
+   "rt": "G",
+   "len": 103
+ },
+
+ {
+   "mv": "Toy Story 4",
+   "yr": "2015",
+   "rt": "",
+   "len": 0
+ },
+
+ {
+   "mv": "Treasure Buddies",
+   "yr": "2012",
+   "rt": "G",
+   "len": 92
+ },
+
+ {
+   "mv": "Treasure Island",
+   "yr": "1950",
+   "rt": "PG",
+   "len": 96
+ },
+
+ {
+   "mv": "Treasure of Matecumbe",
+   "yr": "1976",
+   "rt": "G",
+   "len": 117
+ },
+
+ {
+   "mv": "Treasure Planet",
+   "yr": "2002",
+   "rt": "PG",
+   "len": 95
+ },
+
+ {
+   "mv": "Trenchcoat",
+   "yr": "1983",
+   "rt": "PG",
+   "len": 91
+ },
+
+ {
+   "mv": "Tron",
+   "yr": "1982",
+   "rt": "PG",
+   "len": 96
+ },
+
+ {
+   "mv": "TRON Legacy",
+   "yr": "2010",
+   "rt": "PG",
+   "len": 127
+ },
+
+ {
+   "mv": "Tru Confessions",
+   "yr": "2002",
+   "rt": "G",
+   "len": 81
+ },
+
+ {
+   "mv": "Tuck Everlasting",
+   "yr": "2002",
+   "rt": "PG",
+   "len": 90
+ },
+
+ {
+   "mv": "Twas the Night",
+   "yr": "2001",
+   "rt": "NR",
+   "len": 84
+ },
+
+ {
+   "mv": "Twitches",
+   "yr": "2005",
+   "rt": "PG",
+   "len": 86
+ },
+
+ {
+   "mv": "Twitches Too",
+   "yr": "2007",
+   "rt": "NR",
+   "len": 83
+ },
+
+ {
+   "mv": "Ugly Dachshund, The",
+   "yr": "1966",
+   "rt": "NR",
+   "len": 93
+ },
+
+ {
+   "mv": "Ultimate Christmas Present, The",
+   "yr": "2000",
+   "rt": "G",
+   "len": 85
+ },
+
+ {
+   "mv": "Under Wraps",
+   "yr": "1997",
+   "rt": "NR",
+   "len": 95
+ },
+
+ {
+   "mv": "Underdog",
+   "yr": "2007",
+   "rt": "PG",
+   "len": 84
+ },
+
+ {
+   "mv": "Unidentified Flying Oddball",
+   "yr": "1979",
+   "rt": "G",
+   "len": 93
+ },
+
+ {
+   "mv": "Up",
+   "yr": "2009",
+   "rt": "G",
+   "len": 86
+ },
+
+ {
+   "mv": "Up, Up, and Away",
+   "yr": "2000",
+   "rt": "G",
+   "len": 90
+ },
+
+ {
+   "mv": "Valiant",
+   "yr": "2005",
+   "rt": "G",
+   "len": 76
+ },
+
+ {
+   "mv": "Victory Through Air Power",
+   "yr": "1943",
+   "rt": "G",
+   "len": 70
+ },
+
+ {
+   "mv": "Wall E",
+   "yr": "2008",
+   "rt": "G",
+   "len": 98
+ },
+
+ {
+   "mv": "Watcher in the Woods, The",
+   "yr": "1980",
+   "rt": "PG",
+   "len": 84
+ },
+
+ {
+   "mv": "Wendy Wu: Homecoming Warrior",
+   "yr": "2006",
+   "rt": "TV-PG",
+   "len": 91
+ },
+
+ {
+   "mv": "Westward Ho, The Wagons!",
+   "yr": "1956",
+   "rt": "NR",
+   "len": 90
+ },
+
+ {
+   "mv": "Where the Toys Come From",
+   "yr": "1984",
+   "rt": "NR",
+   "len": 58
+ },
+
+ {
+   "mv": "Whispers: An Elephant's Tale",
+   "yr": "2000",
+   "rt": "G",
+   "len": 72
+ },
+
+ {
+   "mv": "White Fang",
+   "yr": "1991",
+   "rt": "PG",
+   "len": 107
+ },
+
+ {
+   "mv": "White Fang 2",
+   "yr": "1994",
+   "rt": "PG",
+   "len": 106
+ },
+
+ {
+   "mv": "Wild Country, The",
+   "yr": "1970",
+   "rt": "G",
+   "len": 100
+ },
+
+ {
+   "mv": "Wild Hearts Can't Be Broken",
+   "yr": "1991",
+   "rt": "G",
+   "len": 88
+ },
+
+ {
+   "mv": "Wild, The",
+   "yr": "2006",
+   "rt": "G",
+   "len": 94
+ },
+
+ {
+   "mv": "Winnie the Pooh",
+   "yr": "2011",
+   "rt": "G",
+   "len": 63
+ },
+
+ {
+   "mv": "Winnie the Pooh: A Very Merry Christmas",
+   "yr": "2002",
+   "rt": "G",
+   "len": 65
+ },
+
+ {
+   "mv": "Winnie the Pooh: Springtime with Roo",
+   "yr": "2004",
+   "rt": "G",
+   "len": 65
+ },
+
+ {
+   "mv": "Wizards of Waverly Place: The Movie",
+   "yr": "2009",
+   "rt": "G",
+   "len": 98
+ },
+
+ {
+   "mv": "Wonderful Ice Cream Suit, The",
+   "yr": "1998",
+   "rt": "PG",
+   "len": 77
+ },
+
+ {
+   "mv": "World's Greatest Athlete, The",
+   "yr": "1973",
+   "rt": "G",
+   "len": 93
+ },
+
+ {
+   "mv": "Wreck-It Ralph",
+   "yr": "2012",
+   "rt": "PG",
+   "len": 108
+ },
+
+ {
+   "mv": "You Lucky Dog",
+   "yr": "1998",
+   "rt": "G",
+   "len": 89
+ },
+
+ {
+   "mv": "You Wish!",
+   "yr": "2003",
+   "rt": "NR",
+   "len": 100
+ },
+
+ {
+   "mv": "Young Black Stallion, The",
+   "yr": "2003",
+   "rt": "G",
+   "len": 45
+ },
+
+ {
+   "mv": "Zenon: Girl of the 21st Century",
+   "yr": "1999",
+   "rt": "G",
+   "len": 97
+ },
+
+ {
+   "mv": "Zenon: The Zequel",
+   "yr": "2001",
+   "rt": "G",
+   "len": 100
+ },
+
+ {
+   "mv": "Zenon: Z3",
+   "yr": "2004",
+   "rt": "G",
+   "len": 81
+ },
+
+ {
+   "mv": "Zootopia",
+   "yr": "2016",
+   "rt": "",
+   "len": 0
+ }
+]
